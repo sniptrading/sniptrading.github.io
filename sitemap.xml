@@ -3,9 +3,6 @@
 		<loc>http://sniptrading.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://sniptrading.com/page1.html</loc>
-	</url>
-	<url>
 		<loc>http://sniptrading.com/page2.html</loc>
 	</url>
 	<url>
@@ -22,5 +19,14 @@
 	</url>
 	<url>
 		<loc>http://sniptrading.com/page7.html</loc>
+	</url>
+	<url>
+		<loc>http://sniptrading.com/page8.html</loc>
+	</url>
+	<url>
+		<loc>http://sniptrading.com/page9.html</loc>
+	</url>
+	<url>
+		<loc>http://sniptrading.com/page10.html</loc>
 	</url>
 </urlset>
