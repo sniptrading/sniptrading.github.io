@@ -12,8 +12,8 @@
         "#3c3c3c"
       ]
     },
-    "currentPage": "recenttrades.html",
-    "uniqCompNum": 55,
+    "currentPage": "terms.html",
+    "uniqCompNum": 56,
     "versionPublish": "4.11.4"
   },
   "pages": {
@@ -39,7 +39,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -57,7 +57,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -102,7 +102,7 @@
           },
           "title": "Clear, Accurate &amp; Actionable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Low risk Trade Alerts",
           "text": "Amplify your Trading Profits with High degree accuracy<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Real-time notification via #Slack &amp; SMS",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#testimonials1-NaN\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
           "_tags": [
             "Theme"
           ],
@@ -156,10 +156,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/bearisharoma-634x498.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -305,7 +308,7 @@
             {
               "authorName": "JOIN NOW",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\"><b>1. <a href=\"page3.html\" class=\"text-success\">Sign up</a>\n</b></p><p class=\"mbr-reviews__p\">Choose your Trading Plan. Our alerts will be sent instantly upon release and received Real-Time anywhere in the globe via # Slack &amp; SMS.\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\"><b>Complete Purchase\n</b></p><p class=\"mbr-reviews__p\">Simply use our secure payment options to complete your purchase. We're transparent, we're using the industry-leading payment processors Stripe to process all transactions.</p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>1.<a href=\"plans.html\" class=\"text-success\"> Sign up</a>\n</b></p><p class=\"mbr-reviews__p\">Choose your Trading Plan. Our alerts will be sent instantly upon release and received Real-Time anywhere in the globe via # Slack &amp; SMS.\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\"><b>Complete Purchase\n</b></p><p class=\"mbr-reviews__p\">Simply use our secure payment options to complete your purchase. We're transparent, we're using the industry-leading payment processors Stripe to process all transactions.</p>"
             },
             {
               "authorName": "MAKE PAYMENT",
@@ -320,7 +323,7 @@
           ],
           "_styles": {
             ".mbr-reviews__text": {
-              "color": "#585555"
+              "color": "#3c3c3c"
             }
           }
         },
@@ -391,9 +394,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ABOUT</strong><br><strong>TERMS</strong><br><strong>PRIVACY POLICY</strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
-          "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li><b>FREQUENTLY ASKED QUESTIONS</b></li><li><br></li><li><br></li></ul>",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -434,7 +437,7 @@
             {
               "authorName": "",
               "authorBio": "",
-              "text": "<p><a href=\"about.html#msg-box3-1d\">WHAT IS SNIPTRADING?</a></p><p><a href=\"index.html#testimonials1-NaN\">HOW TO I SIGN UP?</a></p><p>HOW TO USE SNIPTRADING ALERTS?</p><p>WHAT IS OUR REFUND POLICY?</p><p>ARE DISCOUNTS AVAILABLE FOR ANNUAL SUBSCRIPTION?</p>"
+              "text": "<p><a href=\"about.html#msg-box3-1d\">WHAT IS SNIPTRADING?</a></p><p><a href=\"index.html#testimonials1-NaN\">HOW TO I SIGN UP?</a></p><p>HOW TO USE SNIPTRADING ALERTS?</p><p>WHAT IS OUR REFUND POLICY?</p><p>WHAT DISCOUNTS IS AVAILABLE FOR ANNUAL SUBSCRIPTION?</p>"
             },
             {
               "authorName": "SUFFIAN A.",
@@ -471,6 +474,14 @@
           ]
         },
         {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1j"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -482,7 +493,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -500,7 +511,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -554,7 +565,7 @@
           },
           "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page3.html#header3-m\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "_tags": [
             "Theme"
           ],
@@ -628,9 +639,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ABOUT</strong><br><strong>TERMS</strong><br><strong>PRIVACY POLICY</strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
-          "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li><b>FREQUENTLY ASKED QUESTIONS</b></li><li><br></li><li><br></li></ul>",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -661,7 +672,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -679,7 +690,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1082,7 +1093,7 @@
           },
           "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "_tags": [
             "Theme"
           ],
@@ -1119,9 +1130,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ABOUT</strong><br><strong>TERMS</strong><br><strong>PRIVACY POLICY</strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
-          "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li><b>FREQUENTLY ASKED QUESTIONS</b></li><li><br></li><li><br></li></ul>",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1152,7 +1163,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1170,7 +1181,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1197,7 +1208,7 @@
             "showMeta": true
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Choose your Trading Plan(s)",
-          "meta": "&nbsp;All Plans are monthly rolling subscription. All subscriptions can be cancelled at any time, see <a href=\"page1.html\">Terms</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trade Alerts are released during the European &amp; New York sessions.<br><br>",
+          "meta": "&nbsp;All Plans are monthly rolling subscription. All subscriptions can be cancelled at any time, see <a href=\"terms.html\">Terms</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trade Alerts are released during the European &amp; New York sessions.<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -1457,7 +1468,7 @@
           },
           "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "_tags": [
             "Theme"
           ],
@@ -1494,9 +1505,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ABOUT</strong><br><strong>TERMS</strong><br><strong>PRIVACY POLICY</strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
-          "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li><b>FREQUENTLY ASKED QUESTIONS</b></li><li><br></li><li><br></li></ul>",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1527,7 +1538,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1545,7 +1556,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1571,8 +1582,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "DROP-DEAD EASY WEBSITE MAKER",
-          "meta": "By John Smith posted July 30, 2015",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sniptrading Analytica",
+          "meta": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Financial Markets Research",
           "_tags": [
             "Theme"
           ],
@@ -1594,9 +1605,9 @@
             "overlayOpacity": 0.5
           },
           "title": "GET IN TOUCH",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "webworkz@protonmail.com",
+            "action": "sniptrading@protonmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1660,7 +1671,7 @@
           },
           "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "_tags": [
             "Theme"
           ],
@@ -1697,9 +1708,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ABOUT</strong><br><strong>TERMS</strong><br><strong>PRIVACY POLICY</strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
-          "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li><b>FREQUENTLY ASKED QUESTIONS</b></li><li><br></li><li><br></li></ul>",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1730,7 +1741,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1748,7 +1759,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1814,7 +1825,7 @@
           },
           "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "_tags": [
             "Theme"
           ],
@@ -1851,9 +1862,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ABOUT</strong><br><strong>TERMS</strong><br><strong>PRIVACY POLICY</strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
-          "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li><b>FREQUENTLY ASKED QUESTIONS</b></li><li><br></li><li><br></li></ul>",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1884,7 +1895,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1902,7 +1913,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1958,7 +1969,7 @@
           "title": "ABOUT",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><b>Sniptrading Analytics</b> (sniptrading.com) - Amplify your Profits!</p><p>Snip means \"Bargain\", so sniptrading literally means \"Bargain Trading\" which encompasses what our low risks trading alerts with high degree accuracy is all about. Our systems and strategies are well researched and designed to maximize performance, thereby improving the overall financial market trading profits. Our clients who ave relied on our Alerts for many years include, Professional traders, CTAs, independent traders, registered money managers, high frequency propietary trading firms and even aspiring retail traders from all around the world.</p><p> Our alerts are clear and concise because we use language that everyone understands.</p><p>Sniptrading.com Alerts Philosophy - <b>Clear. Accurate &amp; Actionable</b></p><p><b>Clear</b> - necessary information only, no gibberish!</p><p><b>Accurate</b> - As new data is added to the markets on a daily basis, our AI and computer learning systems capture and use all new data while filtering noise through further research and regression to improve the already high degree of accuracy of our alerts. We use this information to pick out the best trades for our trading fund, you will be informed of every trade we take on our fund in accordance with your chosen subscription plan(s) immediately.</p><p><b>Actionable</b> - Most importantly, we make certain that our Alerts can be acted upon at the time of receipt by our clients, in some cases even hours after Alets have been released. We include all the details you need to follow the alerts ; entry price, stop-loss and target price (take profit). All this information will be sent immediately as our Alerts are released via #Slack, Telegram and email(if requested) to your device. By joining our service, you will be informed instantly of every trade we take on our fund and have the opportunity to do professional trades every day.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE RECENT TRADES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"recenttrades.html\" data-toolbar=\"-mbrBtnMove\">SEE RECENT TRADES</a>",
           "_tags": [
             "Theme"
           ],
@@ -1997,7 +2008,7 @@
           },
           "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page3.html#header3-m\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "_tags": [
             "Theme"
           ],
@@ -2071,9 +2082,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ABOUT</strong><br><strong>TERMS</strong><br><strong>PRIVACY POLICY</strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
-          "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li><b>FREQUENTLY ASKED QUESTIONS</b></li><li><br></li><li><br></li></ul>",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
