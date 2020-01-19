@@ -12,8 +12,8 @@
         "#3c3c3c"
       ]
     },
-    "currentPage": "terms.html",
-    "uniqCompNum": 56,
+    "currentPage": "index.html",
+    "uniqCompNum": 83,
     "versionPublish": "4.11.4"
   },
   "pages": {
@@ -57,7 +57,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -75,7 +75,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://sniptrading.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-NaN"
         },
@@ -101,7 +101,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Clear, Accurate &amp; Actionable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Low risk Trade Alerts",
-          "text": "Amplify your Trading Profits with High degree accuracy<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Real-time notification via #Slack &amp; SMS",
+          "text": "Amplify your Trading Profits with High degree accuracy<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Real-time notification via SMS &amp; Email",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#testimonials1-NaN\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
           "_tags": [
             "Theme"
@@ -172,7 +172,7 @@
           },
           "title": "Watch sniptrading in Action!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Our Forex Plan averages 800 pips monthly - <a href=\"page3.html\" class=\"text-success\">$58</a></p><p>Our Gold/Oil/Silver averages 1,200pips - <a href=\"page3.html\" class=\"text-success\">$98</a></p><p>Our Premium Plan averages 2,000 pips monthly - <a href=\"page3.html\" class=\"text-success\">$130</a></p><p>ALL TRADES IN VIDEO WAS LIVE TRADED &amp; POSTED LIVE ! VERIFYABLE IN TWITTER/INSTAGRAM: &nbsp; &nbsp; @sniptrading</p>",
+          "text": "<p>Our Forex Plan averages 800 pips monthly - <a href=\"page3.html\" class=\"text-success\">$</a>97</p><p>Our Gold/Oil/Silver averages 1,200pips - <a href=\"page3.html\" class=\"text-success\">$<b>1</b></a><b>46</b></p><p>Our Premium Plan averages 2,000 pips monthly - <a href=\"page3.html\" class=\"text-success\">$1</a>98</p><p>ALL TRADES IN VIDEO WAS LIVE TRADED &amp; POSTED LIVE ! VERIFYABLE IN TWITTER/INSTAGRAM: &nbsp; &nbsp; @sniptrading</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">RECENT TRADES</a>",
           "_tags": [
             "Theme"
@@ -241,7 +241,7 @@
             {
               "authorName": "JOIN NOW",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\"><b>1. <a href=\"page3.html\" class=\"text-success\">Sign up</a>\n</b></p><p class=\"mbr-reviews__p\">Choose your Trading Plan. Our alerts will be sent instantly upon release and received Real-Time anywhere in the globe via # Slack &amp; SMS.\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\"><b>Complete Purchase\n</b></p><p class=\"mbr-reviews__p\">Simply use our secure payment options to complete your purchase. We're transparent, we're using the industry-leading payment processors Stripe to process all transactions.</p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>1.<a href=\"plans.html\" class=\"text-success\"> Sign up</a>\n</b></p><p class=\"mbr-reviews__p\">Choose your Trading Plan. Our alerts will be sent instantly upon release and received Real-Time anywhere in the globe via # Slack &amp; SMS.\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\"><b>Complete Purchase\n</b></p><p class=\"mbr-reviews__p\">Simply use our secure payment options to complete your purchase. We're transparent, we're using the industry-leading payment processors Stripe to process all transactions.</p>"
             },
             {
               "authorName": "MAKE PAYMENT",
@@ -405,251 +405,6 @@
         }
       ]
     },
-    "FAQs.html": {
-      "settings": {
-        "title": "FAQ",
-        "meta_descr": "Frequently Asked Questions, Help pages",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 2
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "showName": false,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "header": "FREQUENTLY ASKED QUESTIONS",
-          "items": [
-            {
-              "authorName": "",
-              "authorBio": "",
-              "text": "<p><a href=\"about.html#msg-box3-1d\">WHAT IS SNIPTRADING?</a></p><p><a href=\"index.html#testimonials1-NaN\">HOW TO I SIGN UP?</a></p><p>HOW TO USE SNIPTRADING ALERTS?</p><p>WHAT IS OUR REFUND POLICY?</p><p>WHAT DISCOUNTS IS AVAILABLE FOR ANNUAL SUBSCRIPTION?</p>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">WHAT IS FOREX TRADING?</p><p class=\"mbr-reviews__p\">HOW DO I OPEN A TRADING ACCOUNT?</p><p class=\"mbr-reviews__p\">WHERE CAN I LEARN ABOUT TRADING?</p><p class=\"mbr-reviews__p\">WHAT IS A PIP?</p><p class=\"mbr-reviews__p\">WHAT DOES \"ENTER\",, \"STOPS\" \"TP\" AS CONTAIN IN THE ALERT MEAN?</p><p class=\"mbr-reviews__p\"><br></p>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">WHAT IS TECHNICAL ANALYSIS?</p><p class=\"mbr-reviews__p\">WHAT IS FUNDAMENTAL ANALYSIS?</p><p class=\"mbr-reviews__p\">WHAT IS ALGORITHM TRADING?</p><p class=\"mbr-reviews__p\">WHAT IS A TRADING STRATEGY?</p><p class=\"mbr-reviews__p\">WHAT STRATEGIES ARE USED AT SNIPTRADING?</p>"
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-1e",
-          "testimonial": [
-            {
-              "authorName": "",
-              "authorBio": "",
-              "text": "<p><a href=\"about.html#msg-box3-1d\">WHAT IS SNIPTRADING?</a></p><p><a href=\"index.html#testimonials1-NaN\">HOW TO I SIGN UP?</a></p><p>HOW TO USE SNIPTRADING ALERTS?</p><p>WHAT IS OUR REFUND POLICY?</p><p>WHAT DISCOUNTS IS AVAILABLE FOR ANNUAL SUBSCRIPTION?</p>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">WHAT IS FOREX TRADING?</p><p class=\"mbr-reviews__p\">HOW DO I OPEN A TRADING ACCOUNT?</p><p class=\"mbr-reviews__p\">WHERE CAN I LEARN ABOUT TRADING?</p><p class=\"mbr-reviews__p\">WHAT IS A PIP?</p><p class=\"mbr-reviews__p\">WHAT DOES \"ENTER\",, \"STOPS\" \"TP\" AS CONTAIN IN THE ALERT MEAN?</p><p class=\"mbr-reviews__p\"><br></p>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">WHAT IS TECHNICAL ANALYSIS?</p><p class=\"mbr-reviews__p\">WHAT IS FUNDAMENTAL ANALYSIS?</p><p class=\"mbr-reviews__p\">WHAT IS ALGORITHM TRADING?</p><p class=\"mbr-reviews__p\">WHAT IS A TRADING STRATEGY?</p><p class=\"mbr-reviews__p\">WHAT STRATEGIES ARE USED AT SNIPTRADING?</p>"
-            }
-          ]
-        },
-        {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1j"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-128x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "sniptrading",
-              "link": "https://sniptrading.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://sniptrading.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-z"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#efefef",
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#585555",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-12"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#28324e"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/luke-chesser-jkutrj4vk00-unsplash-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "We are the Best at what we do!\n<div><span style=\"font-weight: normal;\">Our systems identify amazingly low-risk trading setups;\n</span></div><div><span style=\"font-weight: normal;\">that's why client say our alerts are a snip!.</span></div>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-14"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/m-b-m-zzoa5g8hspi-unsplash-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-265x265.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "index.html",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
-          "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
-          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-15"
-        }
-      ]
-    },
     "recenttrades.html": {
       "settings": {
         "title": "Recent Trades",
@@ -657,7 +412,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -690,7 +445,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -708,7 +463,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://sniptrading.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-q"
         },
@@ -1181,7 +936,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1199,7 +954,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://sniptrading.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-d"
         },
@@ -1207,8 +962,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Choose your Trading Plan(s)",
-          "meta": "&nbsp;All Plans are monthly rolling subscription. All subscriptions can be cancelled at any time, see <a href=\"terms.html\">Terms</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trade Alerts are released during the European &amp; New York sessions.<br><br>",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Choose your Trading Plan",
+          "meta": "&nbsp; All Plans are 30 DAY rolling subscription. All subscriptions can be cancelled at any time, see <a href=\"terms.html\">Terms</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trade Alerts are released during the European &amp; New York sessions.<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -1223,7 +978,7 @@
             "fourthType": "hidden",
             "fifthType": "hidden",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showButtons": true,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -1240,21 +995,21 @@
           },
           "title1": "Forex",
           "currency1": "$",
-          "price1": "58",
-          "period1": "per month",
-          "list1": "<div style=\"text-align: center;\"><b>Average 3 - 6 Alerts Daily</b></div><div style=\"text-align: center;\"><b>Average Risk Exposure 40 pips max</b></div><ul><li><b>Average profits 70pips</b></li><li><b>Average montly profits 4,000 pips</b></li></ul>",
+          "price1": "97",
+          "period1": "per 30 days",
+          "list1": "<div style=\"text-align: center;\"><b>Average 3 - 6 Alerts Weekly</b></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><b>Average Monthly profits &nbsp;1.600 pips</b></div><div style=\"text-align: center;\"><b><br></b></div><div style=\"text-align: center;\"><b>SMS &amp; Email Alerts</b></div>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "title2": "Gold/Oil/Bitcoin",
           "currency2": "$",
-          "price2": "98",
-          "period2": "per month",
-          "list2": "<ul><li><b>Average 3 - 6 Alerts Daily</b></li><li><b>Average Risk Exposure 40 pips max</b></li><li><b>Average montly profits 4,000 pips</b></li></ul>",
+          "price2": "146",
+          "period2": "per 30 days",
+          "list2": "<ul><li><b>Average 3 - 6 Alerts Weekly\r</b></li><li><b>\r</b><b>Average Monthly profits 2.000 pips&nbsp;</b></li><li><b>SMS &amp; Email Alerts</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "title3": "PREMIUM - All",
           "currency3": "$",
-          "price3": "130",
-          "period3": "per month",
-          "list3": "<ul><li><b>All Alerts in Forex + Gold/Oil/Bitcoin</b></li><li><b>Average Risk Exposure 40 pips max</b></li><li><b>Average montly profits 4,000 pips</b></li></ul>",
+          "price3": "198",
+          "period3": "per 30 days",
+          "list3": "<b>All &nbsp;Alerts Weekly\r</b><ul><li></li></ul><div><b>\r</b></div><div><b>Average Monthly profits  1.600 pips\r</b></div><div><b>\r</b></div><div><b>SMS &amp; Email Alerts</b></div><div><b><br></b></div><div><b>Regular bonus Alerts(Dow. FTSE, Dax)</b></div>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
@@ -1272,169 +1027,24 @@
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_anchor": "pricing-table1-k"
+          "_anchor": "pricing-table1-k",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showMeta": true
           },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/17-266x266.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "FOREX PAIRS",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">YTD Results</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/19-320x257.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "GOLD/OIL/BITCOIN",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">YTD Results</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/22-390x285.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "Premium - ALL",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">YTD Results</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DISCOUNTS &amp; PROMOTIONS",
+          "meta": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;90 Days subcription FX &nbsp; $150<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;90 Days subcription Gold/Oil/Bitcoin &nbsp;$350<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;90 days subcription Premium &nbsp;= $500<br><br>PAY FOR SUBSCRIPTION WITH CRYPTO CURRENCY FOR INSTANT 25% DISCOUNT ACROSS ALL PLANS",
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
-          "_anchor": "features1-l"
+          "_name": "header3",
+          "_anchor": "header3-2a"
         },
         {
           "_inherit": "msg-box1",
@@ -1523,7 +1133,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1556,7 +1166,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1574,7 +1184,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://sniptrading.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-7"
         },
@@ -1726,7 +1336,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1759,7 +1369,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1777,7 +1387,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://sniptrading.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1"
         },
@@ -1880,7 +1490,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1913,7 +1523,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Open Trading Account</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1931,7 +1541,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://sniptrading.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-16"
         },
@@ -1968,7 +1578,7 @@
           },
           "title": "ABOUT",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Sniptrading Analytics</b> (sniptrading.com) - Amplify your Profits!</p><p>Snip means \"Bargain\", so sniptrading literally means \"Bargain Trading\" which encompasses what our low risks trading alerts with high degree accuracy is all about. Our systems and strategies are well researched and designed to maximize performance, thereby improving the overall financial market trading profits. Our clients who ave relied on our Alerts for many years include, Professional traders, CTAs, independent traders, registered money managers, high frequency propietary trading firms and even aspiring retail traders from all around the world.</p><p> Our alerts are clear and concise because we use language that everyone understands.</p><p>Sniptrading.com Alerts Philosophy - <b>Clear. Accurate &amp; Actionable</b></p><p><b>Clear</b> - necessary information only, no gibberish!</p><p><b>Accurate</b> - As new data is added to the markets on a daily basis, our AI and computer learning systems capture and use all new data while filtering noise through further research and regression to improve the already high degree of accuracy of our alerts. We use this information to pick out the best trades for our trading fund, you will be informed of every trade we take on our fund in accordance with your chosen subscription plan(s) immediately.</p><p><b>Actionable</b> - Most importantly, we make certain that our Alerts can be acted upon at the time of receipt by our clients, in some cases even hours after Alets have been released. We include all the details you need to follow the alerts ; entry price, stop-loss and target price (take profit). All this information will be sent immediately as our Alerts are released via #Slack, Telegram and email(if requested) to your device. By joining our service, you will be informed instantly of every trade we take on our fund and have the opportunity to do professional trades every day.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
+          "text": "<p><b>Sniptrading Analytics</b> (sniptrading.com) - Amplify your Profits!</p><p>Snip means \"Bargain\", so sniptrading literally means \"Bargain Trading\" which encompasses what our low risks trading alerts with high degree accuracy is all about. Our data-driven strategic systems are well researched and designed to maximize performance, thereby improving the overall financial market trading profits. Our clients who have relied on our Alerts for many years include, Professional traders, CTAs, independent traders, registered money managers, high frequency propietary trading firms and even aspiring retail traders from all around the world.</p><p> Our alerts are clear and concise because we use language that everyone understands.</p><p>Sniptrading.com Alerts Philosophy - <b>Clear. Accurate &amp; Actionable</b></p><p><b>Clear</b> - necessary information only, no gibberish!</p><p><b>Accurate</b> - As new data is added to the markets on a daily basis, our AI and computer learning systems capture and use all new data while filtering noise through further research and regression to improve the already high degree of accuracy of our alerts. We use this information to pick out the best trades for our trading fund, you will be informed of every trade we take on our fund in accordance with your chosen subscription plan(s) immediately.</p><p><b>Actionable</b> - Most importantly, we make certain that our Alerts can be acted upon at the time of receipt by our clients, in some cases even hours after Alets have been released. We include all the details you need to follow the alerts ; entry price, stop-loss and target price (take profit). All this information will be sent immediately as our Alerts are released via #Slack, Telegram and email(if requested) to your device. By joining our service, you will be informed instantly of every trade we take on our fund and have the opportunity to do professional trades every day.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"recenttrades.html\" data-toolbar=\"-mbrBtnMove\">SEE RECENT TRADES</a>",
           "_tags": [
             "Theme"
@@ -2090,6 +1700,452 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1c"
+        }
+      ]
+    },
+    "faqs.html": {
+      "settings": {
+        "title": "FAQ",
+        "meta_descr": "Frequently Asked Questions, Help pages",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": false,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "FREQUENTLY ASKED QUESTIONS",
+          "items": [
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p><a href=\"faqs.html#header3-1t\">WHAT IS SNIPTRADING?</a></p><p><a href=\"faqs.html#header3-1u\">HOW TO I SIGN UP?</a></p><p><a href=\"faqs.html#header3-1v\">HOW TO USE SNIPTRADING ALERTS?</a></p><p><a href=\"faqs.html#header3-1w\">WHAT IS OUR REFUND POLICY?</a></p><p><a href=\"faqs.html#header3-1x\">WHAT DISCOUNTS IS AVAILABLE FOR ANNUAL SUBSCRIPTION?</a></p><p><a href=\"faqs.html#header3-1y\">HOW LONG DOES MEMBERSIP LAST?</a></p><p><a href=\"faqs.html#header3-1z\">HOW DO I CANCEL?</a></p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-21\">WHAT IS A PIP?</a><br></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-20\">WHAT DOES \"ENTER,\" \"STOPS\" \"TP\" IN THE ALERT MEAN?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-23\">HOW LONG DOES IT TAKE TO START RECEIVING SIGNALS?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-22\">CAN I USE ANY BROKER?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-22\">WHAT IS TECHNICAL ANALYSIS?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-24\">WHAT IS ALGORITHM TRADING?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-25\">WHAT IS A TRADING STRATEGY?</a></p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">WHAT PAYMENT METHOD ARE SUPPORTED?</p><p class=\"mbr-reviews__p\">DO YOU PROVIDE ACCOUNT MANAGEMENT SERVICE?</p><p class=\"mbr-reviews__p\">WHAT IS A TRADING STRATEGY?</p><p class=\"mbr-reviews__p\">WHAT STRATEGIES ARE USED AT SNIPTRADING?</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1e",
+          "testimonial": [
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p><a href=\"faqs.html#header3-1t\">WHAT IS SNIPTRADING?</a></p><p><a href=\"faqs.html#header3-1u\">HOW TO I SIGN UP?</a></p><p><a href=\"faqs.html#header3-1v\">HOW TO USE SNIPTRADING ALERTS?</a></p><p><a href=\"faqs.html#header3-1w\">WHAT IS OUR REFUND POLICY?</a></p><p><a href=\"faqs.html#header3-1x\">WHAT DISCOUNTS IS AVAILABLE FOR ANNUAL SUBSCRIPTION?</a></p><p><a href=\"faqs.html#header3-1y\">HOW LONG DOES MEMBERSIP LAST?</a></p><p><a href=\"faqs.html#header3-1z\">HOW DO I CANCEL?</a></p><p><a href=\"faqs.html#header3-28\">DO YOU OFFER FREE TRIAL?</a></p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-21\">WHAT IS A PIP?</a><br></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-20\">WHAT DOES \"ENTER,\" \"STOPS\" \"TP\" IN THE ALERT MEAN?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-23\">HOW LONG DOES IT TAKE TO START RECEIVING SIGNALS?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-22\">CAN I USE ANY BROKER?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-22\">WHAT IS TECHNICAL ANALYSIS?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-24\">WHAT IS ALGORITHM TRADING?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-25\">WHAT IS A TRADING STRATEGY?</a></p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">WHAT PAYMENT METHODS ARE SUPPORTED?</p><p class=\"mbr-reviews__p\">DO YOU PROVIDE ACCOUNT MANAGEMENT SERVICE?</p><p class=\"mbr-reviews__p\">WHAT IS A PIP-LOCK?</p><p class=\"mbr-reviews__p\">WHEN WILL I START RECEIVING ALERTS AFTER BTC PAYMENTS?</p>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "WHAT IS SNIPTRADING?",
+          "meta": "Sniptrading is bargain trading. Our systems are designed to identify and leverage inappropriate (unusually cheaper or overpriced) pricing that occur regularly in the markets. Using our proprietary strategic analysis to determine Demand &amp; Supply levels &amp; measure Key Player Directional Bias - our strength This enables us to spot an emerging trend very early, often capturing the highs and lows, and let our subscribers trade with the new trend before others notice it.\nThis original research that has endured for over two decades.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1t",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "sniptrading",
+              "link": "https://sniptrading.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-z"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "HOW DO I SIGN UP?",
+          "meta": "<a href=\"plans.html\">Sign up here</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1u"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "HOW TO USE SNIPTRADING ALERTS?",
+          "meta": "Subscribers will receive subscription-only SMS and Email Alerts. Pending order should be placed as Alerts arrives.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1v"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "WHAT IS OUR REFUND POLICY?",
+          "meta": "Because we do not provide refunds, But we avail our PREMIUM - ALL subscribers security with our 30 day PIP-LOCK where If we do not produce a minimum net of 2,000 pips in 30 days we will extend your order until we meet the target objective. That is how much we trust you with our services! see full <a href=\"terms.html\">terms.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1w"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "WHAT DISCOUNTS IS AVAILABLE FOR ANNUAL SUBSCRIPTION?",
+          "meta": "For all discount and promtions, see here",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "HOW LONG DOES MEMBERSIP LAST?",
+          "meta": "Your subscription will last for 30 calendar days after your payment has been made, or 90 days/Annual depending on your prefrence.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "HOW DO I CANCEL?",
+          "meta": "You are not subject to any contract or obligation! Feel free to cancel your subscription at any time, this can be done simply by email to billing@sniptrading.com. You must cancel two days before the recurring date to allow for processing.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1z"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "WHAT IS A PIP?",
+          "meta": "A pip is a standardized unit and is the smallest amount by which a currency quote can change.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-21"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "WHAT DOES \"ENTER,\" \"STOPS\" \"TP\" IN THE ALERT MEAN?",
+          "meta": "ENTER = Entry Price<br>STOPS = Stop-loss<br>TP = Target Price or Take Profits",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "CAN I USE ANY BROKER?",
+          "meta": "Yes, you are not limited to using any specific broker. It is recomemended to use low-spread, instant execution brokers.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-23"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "WHAT IS TECHNICAL ANALYSIS?",
+          "meta": "Technical analysis is a trading methodology used to analyze investment and locate trading opportunities by examining statistical trends extracted from trading activities, such as price movements and volume. In comparison to fundamental analysts who seek to determine/evaluate a security's intrinsic value, technical analysts concentrate on trends of price movements, market signals and numerous other analytical charts.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-22"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "WHAT IS ALGORITHM TRADING?",
+          "meta": "Algorithmic trading is a method of executing orders using automated pre-programmed trading instructions for variables such as time, price and volume. This method of trading has been developed to make use of the speed and data processing advantages that computers have over human traders.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-24"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "WHAT IS A TRADING STRATEGY?",
+          "meta": "A trading strategy is a method of buying and selling in markets that is based on predefined rules that are used to make trading decisions.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DO YOU PROVIDE ACCOUNT MANAGEMENT SERVICE?",
+          "meta": "Yes, click here for details",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-26"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "WHAT PAYMENT METHODS ARE SUPPORTED?",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-27"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DO YOU OFFER FREE TRIAL",
+          "meta": "No. Follow us on <a href=\"https://twitter.com/sniptrading\">Twitter</a> to free Carts, analysis and Alerts <a href=\"https://twitter.com/sniptrading\">here</a>.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-28"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#efefef",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#585555",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-12"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#28324e"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/luke-chesser-jkutrj4vk00-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "We are the Best at what we do!\n<div><span style=\"font-weight: normal;\">Our systems identify amazingly low-risk trading setups;\n</span></div><div><span style=\"font-weight: normal;\">that's why client say our alerts are a snip!.</span></div>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-14"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/m-b-m-zzoa5g8hspi-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-15"
         }
       ]
     }
