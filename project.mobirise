@@ -12,7 +12,7 @@
         "#3c3c3c"
       ]
     },
-    "currentPage": "index.html",
+    "currentPage": "faqs.html",
     "uniqCompNum": 83,
     "versionPublish": "4.11.4"
   },
@@ -172,8 +172,8 @@
           },
           "title": "Watch sniptrading in Action!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Our Forex Plan averages 800 pips monthly - <a href=\"page3.html\" class=\"text-success\">$</a>97</p><p>Our Gold/Oil/Silver averages 1,200pips - <a href=\"page3.html\" class=\"text-success\">$<b>1</b></a><b>46</b></p><p>Our Premium Plan averages 2,000 pips monthly - <a href=\"page3.html\" class=\"text-success\">$1</a>98</p><p>ALL TRADES IN VIDEO WAS LIVE TRADED &amp; POSTED LIVE ! VERIFYABLE IN TWITTER/INSTAGRAM: &nbsp; &nbsp; @sniptrading</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">RECENT TRADES</a>",
+          "text": "<p>Our Forex Plan averages 800 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$97</b></a></p><p>Our Gold/Oil/Silver averages 1,200pips &nbsp;- <b>$146</b></p><p>Our Premium Plan averages 2,000 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$198</b></a></p><p>ALL TRADES IN VIDEO WAS LIVE TRADED &amp; POSTED LIVE ! VERIFYABLE IN TWITTER/INSTAGRAM: &nbsp; &nbsp; @sniptrading</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"recenttrades.html\" data-toolbar=\"-mbrBtnMove\">RECENT TRADES</a>",
           "_tags": [
             "Theme"
           ],
@@ -212,7 +212,7 @@
           },
           "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page3.html#header3-m\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "_tags": [
             "Theme"
           ],
@@ -1735,7 +1735,7 @@
             {
               "authorName": "",
               "authorBio": "",
-              "text": "<p><a href=\"faqs.html#header3-1t\">WHAT IS SNIPTRADING?</a></p><p><a href=\"faqs.html#header3-1u\">HOW TO I SIGN UP?</a></p><p><a href=\"faqs.html#header3-1v\">HOW TO USE SNIPTRADING ALERTS?</a></p><p><a href=\"faqs.html#header3-1w\">WHAT IS OUR REFUND POLICY?</a></p><p><a href=\"faqs.html#header3-1x\">WHAT DISCOUNTS IS AVAILABLE FOR ANNUAL SUBSCRIPTION?</a></p><p><a href=\"faqs.html#header3-1y\">HOW LONG DOES MEMBERSIP LAST?</a></p><p><a href=\"faqs.html#header3-1z\">HOW DO I CANCEL?</a></p>"
+              "text": "<p><a href=\"faqs.html#header3-1t\">WHAT IS SNIPTRADING?</a></p><p><a href=\"faqs.html#header3-1u\">HOW TO I SIGN UP?</a></p><p><a href=\"faqs.html#header3-1v\">HOW TO USE SNIPTRADING ALERTS?</a></p><p><a href=\"faqs.html#header3-1w\">WHAT IS OUR REFUND POLICY?</a></p><p><a href=\"faqs.html#header3-1x\">WHAT DISCOUNTS IS AVAILABLE FOR ANNUAL SUBSCRIPTION?</a></p><p><a href=\"faqs.html#header3-1y\">HOW LONG DOES MEMBERSIP LAST?</a></p><p><a href=\"faqs.html#header3-1z\">HOW DO I CANCEL?</a></p><p><a href=\"faqs.html#header3-28\">DO YOU OFFER FREE TRIAL?</a></p>"
             },
             {
               "authorName": "SUFFIAN A.",
@@ -1745,7 +1745,7 @@
             {
               "authorName": "JHOLLMAN C.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">WHAT PAYMENT METHOD ARE SUPPORTED?</p><p class=\"mbr-reviews__p\">DO YOU PROVIDE ACCOUNT MANAGEMENT SERVICE?</p><p class=\"mbr-reviews__p\">WHAT IS A TRADING STRATEGY?</p><p class=\"mbr-reviews__p\">WHAT STRATEGIES ARE USED AT SNIPTRADING?</p>"
+              "text": "<p class=\"mbr-reviews__p\">WHAT PAYMENT METHODS ARE SUPPORTED?</p><p class=\"mbr-reviews__p\">DO YOU PROVIDE ACCOUNT MANAGEMENT SERVICE?</p><p class=\"mbr-reviews__p\">WHAT IS A PIP-LOCK?</p><p class=\"mbr-reviews__p\">WHEN WILL I START RECEIVING ALERTS AFTER BTC PAYMENTS?</p>"
             }
           ],
           "_tags": [
