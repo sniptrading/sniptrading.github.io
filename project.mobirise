@@ -12,8 +12,8 @@
         "#3c3c3c"
       ]
     },
-    "currentPage": "faqs.html",
-    "uniqCompNum": 83,
+    "currentPage": "index.html",
+    "uniqCompNum": 99,
     "versionPublish": "4.11.4"
   },
   "pages": {
@@ -57,7 +57,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -101,7 +101,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Clear, Accurate &amp; Actionable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Low risk Trade Alerts",
-          "text": "Amplify your Trading Profits with High degree accuracy<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Real-time notification via SMS &amp; Email",
+          "text": "Amplify your Trading Profits with High degree accuracy<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Real-time notification via #Slack, SMS &amp; Email",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#testimonials1-NaN\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
           "_tags": [
             "Theme"
@@ -159,20 +159,20 @@
               "src": "@PROJECT_PATH@/assets/images/bearisharoma-634x498.png",
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://youtu.be/Bo-a_A6AnQ0",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "autoplay": "on",
+              "loop": false,
+              "active": true
             }
           },
           "title": "Watch sniptrading in Action!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Our Forex Plan averages 800 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$97</b></a></p><p>Our Gold/Oil/Silver averages 1,200pips &nbsp;- <b>$146</b></p><p>Our Premium Plan averages 2,000 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$198</b></a></p><p>ALL TRADES IN VIDEO WAS LIVE TRADED &amp; POSTED LIVE ! VERIFYABLE IN TWITTER/INSTAGRAM: &nbsp; &nbsp; @sniptrading</p>",
+          "text": "<p>Our Forex Plan averages 800 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$97</b></a></p><p>Our Gold/Oil/Silver averages 1,200pips &nbsp;-<a href=\"plans.html\"> </a><b><a href=\"plans.html\" class=\"text-success\">$146</a></b></p><p>Our Premium Plan averages 2,000 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$198</b></a></p><p>ALL TRADES IN VIDEO WAS LIVE TRADED &amp; POSTED LIVE ! VERIFYABLE on our public &nbsp;<a href=\"https://twitter.com/sniptrading?lang=en\" target=\"_blank\" class=\"text-info\">TWITTER</a>&nbsp;/<a href=\"https://www.instagram.com/sniptrading/\" class=\"text-danger\"> INSTAGRAM</a> : &nbsp; &nbsp; @sniptrading</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"recenttrades.html\" data-toolbar=\"-mbrBtnMove\">RECENT TRADES</a>",
           "_tags": [
             "Theme"
@@ -394,7 +394,7 @@
               "size": 0
             }
           },
-          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
@@ -412,7 +412,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -445,7 +445,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -472,7 +472,7 @@
             "showMeta": true
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Recent Trades",
-          "meta": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Trades shown may be updated periodically. <a href=\"page3.html#pricing-table1-k\">Sign up here</a> for current trades.",
+          "meta": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Trades shown may be updated periodically. <a href=\"plans.html\">Sign up here</a> for current trades.",
           "_tags": [
             "Theme"
           ],
@@ -483,7 +483,7 @@
           "_inherit": "slider",
           "_afterNavbarItem": ".mbr-slider",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "showBullets": true,
             "slides": [
               {
@@ -558,7 +558,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/compromiseddemandbtc3-611x544.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -586,7 +586,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/prereclusegbpjpy1-630x518.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -799,17 +799,17 @@
             },
             "video": {
               "active": true,
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://www.youtube.com/watch?v=Bo-a_A6AnQ0",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             }
           },
-          "title": "VIDEO EMBED",
+          "title": "Watch sniptrading in Action!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "text": "<p>Our Forex Plan averages 1,000 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$97</b></a>\n</p><p></p><p>\nOur Gold/Oil/Silver averages 1,200pips  - <a href=\"plans.html\" class=\"text-success\"><b>$146</b></a>\n</p><p></p><p>\nOur Premium Plan averages 2,000 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$198</b></a>\n</p><p></p><p>\nALL TRADES IN VIDEO WAS LIVE TRADED &amp; POSTED LIVE ! VERIFYABLE on our public &nbsp;<a href=\"https://twitter.com/sniptrading?lang=en\" target=\"_blank\" class=\"text-info\">TWITTER</a>&nbsp;/&nbsp;<a href=\"https://www.instagram.com/sniptrading/\" target=\"_blank\" class=\"text-danger\">INSTAGRAM</a>:     @sniptrading</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a>",
           "_tags": [
             "Theme"
           ],
@@ -885,7 +885,7 @@
               "size": 0
             }
           },
-          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
@@ -936,7 +936,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -997,19 +997,19 @@
           "currency1": "$",
           "price1": "97",
           "period1": "per 30 days",
-          "list1": "<div style=\"text-align: center;\"><b>Average 3 - 6 Alerts Weekly</b></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><b>Average Monthly profits &nbsp;1.600 pips</b></div><div style=\"text-align: center;\"><b><br></b></div><div style=\"text-align: center;\"><b>SMS &amp; Email Alerts</b></div>",
+          "list1": "<div style=\"text-align: center;\"><b>Average 3 - 6 Alerts Weekly</b></div><div style=\"text-align: center;\"><b><br></b></div><div style=\"text-align: center;\"><b>Monthly profits excess of 1.000 pips</b><br></div><div style=\"text-align: center;\"><b><br></b></div><div style=\"text-align: center;\"><b>SMS &amp; Email Alerts</b></div>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "title2": "Gold/Oil/Bitcoin",
           "currency2": "$",
           "price2": "146",
           "period2": "per 30 days",
-          "list2": "<ul><li><b>Average 3 - 6 Alerts Weekly\r</b></li><li><b>\r</b><b>Average Monthly profits 2.000 pips&nbsp;</b></li><li><b>SMS &amp; Email Alerts</b></li></ul>",
+          "list2": "<ul><li><b>Average 3 - 6 Alerts Weekly</b></li><li><b>Month ly profits excess of 1.600 pips&nbsp;</b></li><li><b>SMS &amp; Email Alerts</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "title3": "PREMIUM - All",
           "currency3": "$",
           "price3": "198",
           "period3": "per 30 days",
-          "list3": "<b>All &nbsp;Alerts Weekly\r</b><ul><li></li></ul><div><b>\r</b></div><div><b>Average Monthly profits  1.600 pips\r</b></div><div><b>\r</b></div><div><b>SMS &amp; Email Alerts</b></div><div><b><br></b></div><div><b>Regular bonus Alerts(Dow. FTSE, Dax)</b></div>",
+          "list3": "<b>All &nbsp;Alerts&nbsp;</b><ul><li></li></ul><div><b>\n</b></div><div><b>Monthly profits 3.800 pips</b></div><div><b>PIP-LOCK guarantee 3,000 pips</b></div><div><b>\n</b></div><div><b>\n</b></div><div><b>SMS &amp; Email Alerts</b></div><div><b>#Slack Alerts &amp; Private channel access</b></div><div><b><br></b></div><div><b>Regular bonus Alerts(Dow. FTSE, Dax)</b></div>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
@@ -1030,7 +1030,11 @@
           "_anchor": "pricing-table1-k",
           "_styles": {
             "DIV": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#585555"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           }
         },
@@ -1039,7 +1043,7 @@
             "showMeta": true
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DISCOUNTS &amp; PROMOTIONS",
-          "meta": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;90 Days subcription FX &nbsp; $150<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;90 Days subcription Gold/Oil/Bitcoin &nbsp;$350<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;90 days subcription Premium &nbsp;= $500<br><br>PAY FOR SUBSCRIPTION WITH CRYPTO CURRENCY FOR INSTANT 25% DISCOUNT ACROSS ALL PLANS",
+          "meta": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> Coming soon! </b>&nbsp;We will soon be availing subscribers with more Snip payment options!<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 90 Days subcription FX &nbsp;- $227<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 90 Days subcription Gold/Oil/Bitcoin - $350<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 90 days subcription Premium &nbsp;- $476<br><br>&nbsp;* PAY FOR SUBSCRIPTION WITH CRYPTO CURRENCY FOR INSTANT 25% DISCOUNT ACROSS ALL PLANS *",
           "_tags": [
             "Theme"
           ],
@@ -1115,7 +1119,7 @@
               "size": 0
             }
           },
-          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
@@ -1166,7 +1170,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1318,7 +1322,7 @@
               "size": 0
             }
           },
-          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
@@ -1369,7 +1373,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1395,8 +1399,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TERMS &amp; CONDITIONS",
-          "meta": "<br><br><br>HallandCoTrading.com (referred to herein as “Hall &amp; Co Trading”, “we” or “us”) and its Affiliates (defined below) provide certain free and paid for training, educational, and market information services through its web site located at www.HallandCoTrading.com (the “Site”) and via email, text or other delivery methods (“Services”). In consideration of Hall &amp; Co Trading (or any of its Affiliates) providing, or continuing to provide, you (you may be referred to herein as “you” or “user”) with access to the Site and the Services, you hereby agree that your use of this Site and any Service shall be expressly pursuant to and conditioned upon your agreement to the following Terms and Conditions (“Terms”).1. \n<br>\n<br>Acknowledgement of Disclosures and Disclaimers\n<br>\n<br>1. You hereby acknowledge and agree that:\n<br>\n<br>Neither Hall &amp; Co Trading nor any of its owners, directors, officers, employees, agents, independent contractors or affiliates (collectively “Affiliates”) are registered as an investment adviser. Rather Hall &amp; Co Trading and its Affiliates rely upon the “publisher’s exclusion” from the definition of “investment adviser” as provided under Section 202(a)(11) of the Investment Advisers Act of 1940 and corresponding state securities laws. The Site and Services are bona fide publications of general and regular circulation offering impersonalized investment-related information to users and/or prospective users (e.g., not tailored to the specific investment needs of current and/or prospective users). To the extent any of the content published as part of the Site or Services may be deemed to be investment advice, such information is impersonal and not tailored to the investment needs of any specific person.\n<br>We will not evaluate your individual financial condition, investment portfolio, investment experience, age, income, tax bracket, risk tolerance, investment objectives or other similar factors (referred to herein as “Individual Financial Requirements”).\n<br>The Site and Services are currently limited to the dissemination of impersonal investment-related information pertaining to Hall &amp; Co Trading’s “technically-based” analyses, together with access to additional impersonal investment-related information and links. By its nature, technically-based analysis does not contemplate the user’s Individual Financial Requirements.\n<br>The Site and Services do not offer and users do not receive initial or ongoing individual personalized investment advice, investment reporting, investment supervisory or investment management services, nor the ongoing review or monitoring of the user’s individual investment portfolio. Rather, the Site and Services are designed solely to provide users with a method to identify and evaluate potential opportunities and obtain information on market analysis, current events, trade methodology, and other related information. Therefore, each user hereby agrees that use of the Site or any Service is not a substitute for ongoing individual personalized advice from an investment professional of the user’s choosing.\n<br>Each user hereby agrees that he/she/it should independently evaluate and determine whether to act upon any information provided through the Site or Services (including without limitation, individual “picks”, recommendations or trends) based on the user’s Individual Financial Requirements. Further, each user hereby acknowledges that neither Hall &amp; Co Trading nor any of its Affiliates will advise you personally concerning the nature, potential or suitability of any particular trend, security, portfolio of securities, transaction, investment strategy or other similar matter.\n<br>Certain portions of the Site and certain Services (i.e. newsletters, articles, commentaries, etc.) may contain a discussion of, and/or provide access to, positions of Hall &amp; Co Trading or its Affiliates and/or their “picks,” trades, or recommendations. Due to various factors, including, but not limited to, changing market conditions, such position, discussion, pick or recommendation may only be valid for a specific moment in time (day, hour, minute or tick of the tape). Thus, each user hereby agrees to independently evaluate and determine whether to act upon any such information. Moreover, no user or prospective user should assume that any such discussion serves as the receipt of, or a substitute for, individual personalized advice from an investment professional of his/her/its choosing.\n<br>You acknowledge that news, information and performance data available through the Site or any Service is supplied by sources believed to be reliable but that Hall &amp; Co Trading undertakes no responsibility to verify the accuracy or completeness of such information or to update such information. Further, the Site or Services may contain trades, recommendations, opinions, news or information which are incomplete or dated. As markets change continuously, previously published recommendations, news information and data may not be current and should not be relied upon.\n<br>To the extent that the Site or any Service contains a “model portfolio”, such model portfolio is to be construed as developed based upon a particular investment strategy but not developed for any user’s Individual Financial Requirements. Further, the actual results of the portfolio, as well as a user’s actual results may differ substantially from the stated investment strategy.\n<br>Past performance may not be indicative of future results. Therefore, no current or prospective user should assume that the future performance of any trend, pick, recommendation, specific investment, investment strategy, product or service made or referenced directly or indirectly through the Site or Services will be profitable or otherwise provide equal historical or anticipated performance level(s).\n<br>Different types of currencies, securities and investments involve varying degrees of risk, and there can be no assurance that any specific currency, security, investment or investment strategy referenced directly or indirectly through the Site or Services will be suitable for a user’s and/or prospective user’s investment portfolio.\n<br>You acknowledge and agree that the Site and Services may contain picks, recommendations or trends that may be different from those obtained through other portions of the Site or other Services and that Hall &amp; Co Trading or its Affiliates and third party service providers may, from time to time, have long and short positions in, or buy or sell the currencies, securities, or derivatives thereof, of companies referenced through the Site or Services and may take positions inconsistent with the views expressed through the Site or Services.\n<br>You acknowledge and agree that certain Hall &amp; Co Trading Affiliates may discuss or recommend specific currencies, securities or investment strategies in which they or their firms have a position, and that they may trade for their own account. In cases where the position is held at the time of publication, Hall &amp; Co Trading will endeavor to make appropriate disclosures. However, due to the short term nature of the investment and trading activities of such Affiliates, such disclosure may not be possible, or feasible. Therefore, you understand and agree that at the time of any transaction that you make, one or more of Hall &amp; Co Trading’s Affiliates may have an undisclosed position in the currencies or securities referenced. Hall &amp; Co Trading makes no representations regarding the strategies or individual currencies positions of any third party service provider.\n<br>To the extent that any user or prospective user utilizes any investment “filtering software”, economic, financial or retirement “calculator” or similar device (collectively referred to as “Software”) contained within or linked to the Site or referenced in any Service, the user or prospective user acknowledges and understands that the information resulting from the use of any such Software should not be construed, in any manner whatsoever, as the receipt of personalized investment advice from Hall &amp; Co Trading, its affiliates or any third party service provider and should not be considered a substitute for individual personalized advice from an investment professional of his/her/its choosing.\n<br>The actual results of any pick, recommendation, investment or investment strategy will vary depending on execution time, speed and quality, market liquidity, commissions and other fees, and general market conditions and volatility.\n<br>Hall &amp; Co Trading and its Affiliates do not possess and do not desire any material non-public information regarding any currency or company. Such information will not be provided or accepted by Hall &amp; Co Trading or any of its Affiliates.\n<br>Hall &amp; Co Trading and its Affiliates do not offer or provide investment implementation services.\n<br>The Site and Services do not establish a fiduciary relationship.\n<br>The publication of the Site or Services should not be construed by any user and/or prospective user as a solicitation to effect, or attempt to effect transactions in currencies or securities by any person or entity.\n<br>Hall &amp; Co Trading may suggest affiliated or third party service providers through the Site or Services and/or provide user information to affiliated or third party service providers. Hall &amp; Co Trading may receive a fee from such affiliated or third party service providers. While Hall &amp; Co Trading may review the products and services of any such recommended affiliated or third party service provider, users and/or prospective users hereby agree to determine for themselves whether any such recommended service provider is appropriate for his/her/its individual circumstances prior to the engagement thereof. Hall &amp; Co Trading does not make any representations or warranties as to the accuracy, timeliness, suitability, completeness, or relevance of any information prepared by any affiliated or unaffiliated third party service provider, whether linked to the Site or incorporated therein, and takes no responsibility therefor. All such information is provided solely for convenience purposes only and all users thereof should be guided accordingly.\n<br>Third Party Service Providers and Information\n<br>The Site and/or Services may contain links, references or recommendations to third party services providers. Your use or purchase of any product or service provided by a third party service provider is governed by the terms, conditions and rules imposed by such third party service provider and not by Hall &amp; Co Trading’s Terms. By using any service you are acknowledging that you have reviewed all such terms, conditions and rules and agree to be bound by them. Further, you hereby agree to look only to such third party provider for the provision of such product or service or for satisfaction of any claim you may have related to such product or service. You acknowledge and agree that Hall &amp; Co Trading and its Affiliates shall not be held responsible for the legality, accuracy, or inappropriate nature of any third party product or service or for any loss or damages caused or alleged to have been caused by the use of such product or service.\n<br>\n<br>The Site or Services may contain links, references or recommendations to information, and/or opinions of third parties. We do not control such third parties nor necessarily endorse any such information or opinions, nor have we reviewed or approved any such content. You acknowledge and agree that Hall &amp; Co Trading, and its Affiliates shall not be held responsible for the legality, accuracy, or inappropriate nature of any content, advertising, products, services, or information provided by any third party, nor for any loss or damages caused or alleged to have been caused by the use of or reliance on any such content.\n<br>\n<br>You expressly acknowledge and agree that your use of any third party product, service, information or opinion is solely at your risk.\n<br>\n<br>Disclaimer of Warranties\n<br>The Site, Services, and any content, product, news, pick, recommendation, information or other data or service contained or referenced therein, or accessed through the Site or Service, is provided “as is” and without representations or warranties of any kind, either express or implied. To the fullest extent permissible pursuant to applicable law, Hall &amp; Co Trading and its Affiliates disclaim all warranties, express, implied or statutory, including, but not limited to, implied warranties of title, non-infringement, merchantability, and fitness for a particular purpose, and all warranties relating to the adequacy, accuracy or completeness of any information available through the Site or any Service.\n<br>\n<br>Hall &amp; Co Trading and its Affiliates do not warrant that your use of the Site or Services will be uninterrupted, error-free, or secure, that defects will be corrected, or that the Site or Services are free of viruses or other harmful components. You acknowledge that you are responsible for obtaining and maintaining all telephone, computer hardware and other equipment needed to access and use Site and Services, and all charges related thereto. You assume complete and ultimate responsibility (and acknowledge and accept all risks) for your use of the Site and/or Services and your reliance on any picks, recommendations, news or other information directly or indirectly provided. No opinion, advice, or statement of Hall &amp; Co Trading or any of its Affiliates, whether made on the Site or as part of any Service or otherwise, shall create any warranty. You use of the Site and Services, and the picks, recommendations and other information and materials provided is entirely at your own risk.\n<br>\n<br>You expressly acknowledge that picks, recommendations and other information and materials available through the Site or Services may contain inaccuracies or errors, or materials that violate the Terms and that unauthorized alterations could be made to the content available through the Site or Services by third parties. Although we attempt to ensure the integrity of the Site and Services, we make no guarantees as to the completeness or correctness of the Site or Services. Thus, you agree that, even when Hall &amp; Co Trading has had an opportunity to remove or correct such erroneous content, Hall &amp; Co Trading shall have no liability to you (or anyone claiming through you) based upon such erroneous content. Further, you agree that Hall &amp; Co Trading and its Affiliates shall not be liable for any delay or failure in performance resulting directly or indirectly from acts of nature, forces or causes beyond its reasonable control, including, without limitation, Internet failures, computer equipment failures, telecommunication equipment failures, other equipment failures, electrical power failures, strikes, labor disputes, riots, insurrections, civil disturbances, shortages of labor or materials, fires, floods, storms, explosions, acts of God, war, governmental actions, orders of domestic or foreign courts or tribunals, or non-performance of third parties.\n<br>\n<br>Indemnification\n<br>On behalf of yourself and your heirs, successor and assigns, you hereby agree to indemnify, defend and hold Hall &amp; Co Trading and its Affiliates harmless from and against any and all claims, damages, losses, costs (including reasonable attorneys’ fees), or other expenses that arise directly or indirectly out of or from:\n<br>\n<br>Your use of the Site or any Service;\n<br>Your decision to follow or act upon any trend, pick, recommendation or opinion received, contained or referenced in or through the Site or any Service or from any third party service provider;\n<br>Any inaccurate, incomplete or erroneous information received, contained or referenced in or through the Site or any Service, whether or not Hall &amp; Co Trading had an opportunity to remove or correct such information;\n<br>Your violation of these Terms; or\n<br>Your violation of any third party service provider terms, conditions and rules and/or the rights of any third party.\n<br>Limitation of Liability\n<br>On behalf of yourself and your heirs, successor and assigns, you hereby acknowledge and accept the limitations of the Site and Services, and agree, as a condition precedent to your access (or continued access) to the Site or Services, that neither Hall &amp; Co Trading nor its Affiliates shall be liable or responsible to you (or anyone claiming through you) for any indirect, incidental, consequential, special, exemplary, punitive or other damages under any legal or equitable theory (including without limitation, contract, tort negligence, strict liability, statute, regulation, rule or other theory) arising out of or relating in any way to the Site or any Service and/or any trend, pick, recommendation, news, information or other content, product or service received or obtained through the Site or any Service, including without limitation any product, service or content from any third party service provided. Your sole remedy for dissatisfaction with the Site or any Service is to stop using it. The sole and exclusive maximum liability to Hall &amp; Co Trading and/or any of its Affiliates in the aggregate for all damages, losses, and causes of action under any legal or equitable theory (including without limitation, contract, tort, negligence, strict liability, statute, regulation, rule or other theory) shall be the total amount actually paid Hall &amp; Co Trading, if any, for access to the Site or Services in the current calendar year in which the alleged damages were incurred.\n<br>\n<br>Term and Termination\n<br>You acknowledge that the term of your use of the Site or any Service is “at will” in the sole discretion of Hall &amp; Co Trading. Accordingly, you hereby agree that Hall &amp; Co Trading may, without prior notice to you, terminate your access to and use of the Site or any Service, with or without cause.\n<br>\n<br>Changes to the Terms of Use\n<br>You acknowledge and agree that Hall &amp; Co Trading may, in its sole discretion and without notice to you change the terms, conditions and/or restrictions contained in these Terms for your use of the Site and/or any Service. Such changes will be deemed effective at the time it is posted on this “Terms and Conditions” web page. You may not be directly notified of any such change. Accordingly, you acknowledge and agree that it is your responsibility to review this Terms and Conditions page to determine if changes have been made and their affect on you. Your continued access or use of the Site or any Service after such change shall be deemed acceptance of such changes. You should check this Terms and Conditions page frequently to see recent changes.\n<br>\n<br>Membership Options &amp; Payment Plans\n<br>Hall &amp; Co Trading offers its products and services via the Hall &amp; Co Trading Membership. Hall &amp; Co Trading Memberships are sold as a monthly, quarterly, or annual subscription. When you submit an order for any one of the previously mentioned subscription plans, you authorize Hall &amp; Co Trading to automatically process future payments on your account according to the price and billing period indicated on the order form you submitted. The Hall &amp; Co Trading Membership service is billed in advance using the credit card information we have on file for your account, and payments will continue to be processed on your account until you discontinue your membership in accordance with our cancellation policy.\n<br>\n<br>Cancellation Policy\n<br>There are no contracts or mandatory minimum commitments with any of our membership plans. You are free to cancel your membership at any time. If the time comes that you need to discontinue your membership you can do so by sending an email to Support@HallandCoTrading.com. To ensure that your cancellation is processed before your membership automatically renews, we encourage you to submit your cancellation request at least one business day prior to your renewal date. We do not offer refunds for cancellations processed after your payment has already been captured. Cancellation requests that are submitted in the middle of your pay period will be processed when received, and any/all recurring payments associated with your request will be made inactive immediately. Your access to the Hall &amp; Co Trading membership website will remain active throughout the remainder of your pay period, but Hall &amp; Co Trading cannot offer refunds or apply credits to your account for any time remaining on services already paid for.\n<br>\n<br>Refund Policy\n<br>Our refund policy is very simple…we don’t offer them. You are in the business of trading, and at Hall &amp; Co Trading we treat your order the same way the market would; meaning once your order has been placed and your payment has been processed, there is no turning back, even if things don’t turn out how you expected. If that scares you, or if you have any inclination that our products or services are not right for you, then please do not submit your order. If you have any questions about what we offer, or if you need further clarification about what your purchase will include, then please don’t hesitate to contact us at (Support@HallandCoTrading.com), we are happy to answer your questions and help in any way that we can.\n<br>\n<br>The truth is our refund policy is strict because we want to promote professionalism in every interaction we have with our clients. Just as we encourage you to perform your due diligence, assess your personal situation, and make an informed decision before you place a trade, we also encourage you to do the same when making the decision to join the community here at Hall &amp; Co Trading. We give everything we have to help traders succeed, and if we’re going to devote that level of energy and effort then we want to ensure that it’s directed towards individuals who are serious about their future and committed to their success! If that’s not you, then that’s ok. We understand that our services may not be suited for everyone.\n<br>\n<br>Likewise, as much as we would enjoy the opportunity to work with you, if your financial situation that has you worried about paying your rent, if you’re having to take on debt just to feed your family, or if you’re concerned about being able to afford your medication next month, then we must ask that you resist the temptation to sign up for our services. The last thing we want to do is reply to your email, where you explain your unfortunate financial circumstance and ask for a refund, by sending you a link to this page with a simple note that says “…sorry.” So please don’t put yourself in that awkward situation.\n<br>\n<br>Other\n<br>The provision of this Site and all Services, and performance of all agreement and covenants required by these Terms shall be deemed to be made without regard to its principals of conflict of laws. Accordingly, you hereby agree to submit to the personal and exclusive jurisdiction for any and all claims arising from your use of the Site or any Service. Those users who access the Site or Services from another jurisdiction hereby waive any jurisdictional, venue, or inconvenient forum objections to such courts. Further, all users hereby waive the right to a trial by jury for any claims arising out of their access or use of the Site or any Service. We reserve the right to limit the availability of the Service to any person, geographic area, or jurisdiction we so desire, at any time and in our sole discretion, and to limit the quantities of any such service or product that we provide. If any provision of these Terms is found to be unlawful, void, or for any reason unenforceable, then that provision shall be deemed modified only to the extent necessary to make such provision lawful and enforceable and if such provision cannot be so modified, severed from the Terms; provided that such modification or removal shall not affect the validity and enforceability of any remaining provisions. No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. Any heading, caption or section title contained in the Terms is inserted only as a matter of convenience and in no way defines or explains any section or provision hereof.\n<br>\n<br>Privacy Policy\n<br>Your privacy is important to Hall &amp; Co Trading. To reinforce our commitment to protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used on Our Site. This policy summarizes the information, including personally identifiable information, that we collect through Our Site and how that information may be used. By using Our Site you consent to the collection and use of this information.\n<br>\n<br>We reserve the right to change our privacy policy at any time. In the event we make changes to any of the terms or conditions of this privacy policy, we will incorporate those changes into this document so you will know what information is being collected and how that information is being used. We will undertake best efforts to notify you of any changes to this privacy policy utilizing the last email address you have provided to us; however, it is your responsibility to keep your email address current and to monitor this policy for any changes. Continued use of Our Site and/or our services shall constitute consent to this policy and any changes made hereto.\n<br>\n<br>\n<br>\n<br>1.) Definitions and Interpretation\n<br>\n<br>In this Policy the following terms shall have the following meanings:\n<br>\n<br>“Account”           means an account required to access and/or use certain areas and features of Our Site\n<br>\n<br>“Cookie”             means a small text file placed on your computer or device by Our Site when you visit   certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in section 12, below;\n<br>\n<br>“Our Site”            means this website and all its subdomains\n<br>\n<br> “UK and EU Cookie Law”              means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015; and\n<br>\n<br>“We/Us/Our”     means Hall &amp; Co Trading, a company registered in the United Kingdom.\n<br>\n<br>\n<br>\n<br>2.) What Does This Policy Cover?\n<br>\n<br>This Privacy Policy applies only to your use of Our Site. It does not extend to any websites that are linked to from Our Site (whether We provide those links or whether they are shared by other users). We have no control over how your data is collected, stored or used by other websites and We advise you to check the privacy policies of any such websites before providing any data to them.\n<br>\n<br>\n<br>\n<br>3.) Information We Collect\n<br>\n<br>We may collect and use your IP address to help administer services on our website as well as to improve your user experience. We do not use your IP address to collect any personally identifiable information. Demographic and interest data is also collected at our Website. We use this data to tailor the information emailed to our customers and to display the content according to their preferences.\n<br>\n<br>Some data will be collected automatically by Our Site (for further details, please see section 13 on Our use of Cookies (Our Cookie Policy is below), other data will only be collected if you voluntarily submit it and consent to Us using it for the purposes set out in section 5, for example, when signing up to receive training material, making a purchase etc. Depending upon your use of Our Site, We may collect some or all of the following data:\n<br>\n<br>Full Name\n<br>\n<br>Address, including street name, city/town, state and zip code\n<br>\n<br>Email Address\n<br>\n<br>Phone Number\n<br>\n<br>Company Information\n<br>\n<br>Country\n<br>\n<br>IP Address\n<br>\n<br>Payment Information (Credit card/Debit card details)\n<br>\n<br>Web Browser Type and Version\n<br>\n<br>Operating System\n<br>\n<br>URLs identifying your referring site and/or activity on Our Site\n<br>\n<br>If you are purchasing products, we may use a third party provider such as a shopping cart to collect a credit card number and related payment information or alternative methods of payment. If you provide information on third party sites, the privacy policy and terms of service on those sites are applicable.\n<br>\n<br>We may also collect information you provide about others, such as how you were referred to our website and programs.\n<br>\n<br>\n<br>\n<br>4.) How we collect personal information\n<br>\n<br>We collect personal information directly when you provide it to us, automatically as you navigate through the Sites, or through other people when you use services associated with the Sites.\n<br>\n<br>We collect your personal information when you provide it to us when you complete membership registration and buy or provide items or services on our Sites, subscribe to a newsletter, email list, submit feedback, enter a contest, fill out a survey, or send us a communication.\n<br>\n<br>\n<br>\n<br>5.) How We Use Information\n<br>\n<br>Hall &amp; Co Trading uses the information collected to provide the best possible products and services to you and to ensure a positive experience with our company and website. This includes:\n<br>\n<br>-Providing and managing your Account\n<br>\n<br>-Providing and managing your access to Our Site\n<br>\n<br>-Personalising and tailoring your experience on Our Site\n<br>\n<br>-Supplying Our products and services to you\n<br>\n<br>-Personalising and tailoring Our products and services for you\n<br>\n<br>-Responding to communications from you\n<br>\n<br>-Supplying you with email newsletters, alerts etc. that you have subscribed to\n<br>\n<br>-Carrying out technical analysis to determine how to improve the Sites and services we provide;\n<br>\n<br>-Monitoring activity on the Sites, e.g. to identify potential fraudulent activity and to ensure compliance with the user terms that apply to the Sites;\n<br>\n<br>-Managing our relationship with you, e.g. by responding to your comments or queries submitted to us on the Sites or asking for your feedback or whether you want to participate in a survey;\n<br>\n<br>-Managing our legal and operational affairs (including, managing risks relating to content and fraud matters)\n<br>\n<br>If you no longer wish to receive emails from Hall &amp; Co Trading please contact us directly at Support@HallandCoTrading.com.\n<br>\n<br>If you provide your telephone number, you agree and acknowledge that you may receive telephone calls or text messages from us with information regarding new products and services, or upcoming events. If you do not wish to receive phone calls or text messages please notify us at Support@HallandCoTrading.com\n<br>\n<br>\n<br>\n<br>6.) Sharing Information\n<br>\n<br>Privacy matters are very important to us and all available resources and processes are implemented to make sure your information remains safe and secure. We do not sell, license, lease or otherwise disclose your personal information to any third party for any reason except as noted herein.\n<br>\n<br>We may share personal information described above with our affiliates for business purposes, such as, but not limited to, servicing customers and informing customers about new products and services, and as permitted by applicable law. Our affiliates may include companies controlled or owned by Hall &amp; Co Trading as well as companies that have an ownership interest in our company. The information we share with affiliates may include any of the information described above, such as your name, address and email address. Our affiliates maintain the privacy of your information to the same extent Hall &amp; Co Trading does in accordance with this Policy.\n<br>\n<br>Information may be shared with third parties that perform support services for Hall &amp; Co Trading such as non-affiliate companies that provide professional, legal, or accounting advice. Non-affiliated companies that assist us in providing services to you are required to maintain the confidentiality of such information to the extent they receive it and to use your personal information only in the course of providing such services, as directed by Hall &amp; Co Trading. We may also disclose information in response to legal requests, such as a court order or subpoena.\n<br>\n<br>As we develop our business, we might sell, buy, restructure or reorganize our business or assets. In the event of a merger, consolidation, sale, liquidation or transfer of assets, Hall &amp; Co Trading may, in its sole and absolute discretion, transfer, sell or assign information collected, including without limitation, non-personal information and personal information, to one or more affiliated or unaffiliated third parties.\n<br>\n<br>\n<br>\n<br>7.) Information you make public or give to others\n<br>\n<br>This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.\n<br>\n<br>If you make your personal information available to other people, we can’t control or accept responsibility for the way they will use or manage that data. There are lots of ways that you can find yourself providing information to other people, like when you post a public message on a forum thread, share information via social media, or make contact with another user whether via our Sites or directly via email. Before making your information publicly available or giving your information to anyone else, think carefully. If giving information to another user via our Sites, ask them how they will handle your information. If you’re sharing information via another website, check the privacy policy for that site to understand its information management practices as this privacy policy will not apply.\n<br>\n<br>\n<br>\n<br>8.) Where we transfer and/or store your personal information\n<br>\n<br>We are based in the United Kingdom so your data will be processed in the United Kingdom. Some of the recipients we have described above, and to whom we disclose your personal information, are based outside the UK. in places like the U.S. We do this on the basis of your consent to this policy. In order to protect your information, we take care where possible to work with subcontractors and service providers who we believe maintain an acceptable standard of data security compliance.\n<br>\n<br>\n<br>\n<br>9.) How we keep your personal information secure\n<br>\n<br>We store personal information on secure servers that are managed by us and our service providers, and occasionally hard copy files that are kept in a secure location in the UK. Personal information that we store or transmit is protected by security and access controls, including username and password authentication, two-factor authentication, and data encryption where appropriate.\n<br>\n<br>\n<br>\n<br>10.) How you can access your personal information\n<br>\n<br>You can access some of the personal information that we collect about you by logging in to your account. You also have the right to make a request to access other personal information we hold about you and to request corrections of any errors in that data. You can also close the account you have with us for any of our Sites at any time. To make an access or correction request, contact our privacy champion using the contact details at the end of this policy.\n<br>\n<br>\n<br>\n<br>11.) Marketing Choices regarding your personal information\n<br>\n<br>Where we have your consent to do so (e.g. if you have subscribed to one of our e-mail lists or have indicated that you are interested in receiving offers or information from us), we send you marketing communications by email about products and services that we feel may be of interest to you. You can ‘opt-out’ of such communications if you would prefer not to receive them in the future by using the “unsubscribe” facility provided in the communication itself.\n<br>\n<br>You also have choices about cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject cookies some parts of our Sites may not work properly in your case.\n<br>\n<br>\n<br>\n<br>12.) How long we keep your personal information\n<br>\n<br>We retain your personal information for as long as is necessary to provide the services to you and others, and to comply with our legal obligations. If you no longer want us to use your personal information or to provide you with the Hall &amp; Co Trading services, you can request that we erase your personal information and close your Hall &amp; Co Trading account. Please note that if you request the erasure of your personal information we will retain information from deleted accounts as necessary for our legitimate business interests, to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the terms of service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.\n<br>\n<br>\n<br>\n<br>13.) Cookies\n<br>\n<br>When you visit our Sites, there’s certain information that’s recorded which is generally anonymous information and does not reveal your identity. If you’re logged into your account some of this information could be associated with your account. We’re talking about the following kinds of details:\n<br>\n<br>-your IP address or proxy server IP address\n<br>\n<br>-the domain name you requested\n<br>\n<br>-the name of your internet service provider is sometimes captured depending on the configuration of your ISP connection\n<br>\n<br>-the date and time of your visit to the website\n<br>\n<br>-the length of your session\n<br>\n<br>-the pages which you have accessed\n<br>\n<br>-the number of times you access our site within any month\n<br>\n<br>-the file URL you look at and information relating to it\n<br>\n<br>-the website which referred you to our Sites\n<br>\n<br>-the operating system which your computer uses.\n<br>\n<br>Occasionally, we will use third party advertising companies to serve ads based on prior visits to our Sites.  For example, if you visit our Sites, you may later see an advertisement for our products and services when you visit a different Site.\n<br>\n<br>Each time your visit our website our servers automatically record your activity and information such as your IP address and/or the domain from which you are visiting. We also record which links on our webpage you click on or visit and any search terms you use. We use this data for website maintenance and technical administration. Your IP address is never linked with any personally identifiable information to identify you personally, except in the case of our investigation into a violation of the terms of use or alleged misconduct.\n<br>\n<br>\n<br>\n<br>14.) Links to Other Websites\n<br>\n<br>This site may contain links to third parties’ websites. Please note that we are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. If you provide information on third party sites, the privacy policy and terms of service on those sites are applicable. Especially if the third party site is used in connection with a purchase of a product. We encourage you to read the privacy policies of websites that you visit before submitting personal information.\n<br>\n<br>\n<br>\n<br>15.) When we need to update this policy\n<br>\n<br>We will need to change this policy from time to time in order to make sure it stays up to date with the latest legal requirements and any changes to our privacy management practices.\n<br>\n<br>When we do change the policy, we’ll make sure to notify you about such changes, where required. A copy of the latest version of this policy will always be available on this page.\n<br>\n<br>\n<br>\n<br>16.) Our Commitment to Security and Confidentiality\n<br>\n<br>Notwithstanding our commitment to security and confidentiality, the fact remains that no transmission over the internet or any wireless network provides complete security. In light of the inherent vulnerability, you acknowledge that: (a) there exists security and privacy limitations which are beyond our control; (b) there can be no guaranty of the security, integrity and privacy limitations related to information transmitted to us over the internet or through our website; and/or (c) outside interference through piracy cannot be controlled by us and as such, information and data transmitted may be viewed by unauthorized third parties.\n<br>\n<br>\n<br>\n<br>17.) If you’re a user or visitor in the European Economic Area these rights also apply to you:\n<br>\n<br>For the purposes of applicable EU data protection law (including the General Data Protection Regulation 2016/679 (the “GDPR”), we are a ‘data controller’ of your personal information.\n<br>\n<br>You are also entitled to ask us to port your personal information (i.e. to transfer in a structured, commonly used and machine-readable format, to you), to erase it, or restrict its processing. You also have rights to object to some processing that is based on our legitimate interests, such as profiling that we perform for the purposes of direct marketing, and, where we have asked for your consent to process your data, to withdraw this consent as more fully described below.\n<br>\n<br>These rights are limited in some situations – for example, we can demonstrate that we have a legal requirement to process your personal information. In some instances, this means that we may retain some data even if you withdraw your consent.\n<br>\n<br>Where we require your personal information to comply with legal or contractual obligations, then provision of such data is mandatory: if such data is not provided, then we will not be able to manage our contractual relationship with you, or to meet obligations placed on us. In all other cases, provision of requested personal information is optional.\n<br>\n<br>If you have unresolved concerns you also have the right to complain to data protection authorities. The relevant data protection authority will be the data protection authority of the country: (i) of your habitual residence; (ii) of your place of work; or (iii) in which you consider the alleged infringement has occurred.\n<br>\n<br>\n<br>\n<br>18.) How you can contact us\n<br>\n<br>If you have any questions about our privacy practices or the way in which we have been managing your personal information, please contact our privacy champion at Support@HallandCoTrading.com\n<br>\n<br>Hall &amp; Co Trading Privacy Policy effective date May 25th, 2018\n<br>\n<br>Disclaimers\n<br>Acknowledgement and Agreement\n<br>By using the services offered by Hall and Co Trading, or using this website the user agrees that the author and any other entities associated with Hall and Co Trading shall not be held liable for any direct, indirect, consequential loss or any damages whatsoever arising from this usage, or the use of any information, signals, messages, education, and any other information contained or disseminated in regard to its use and understanding. Use this site and the services offered by Hall and Co Trading at your own risk. Neither guarantee of performance results nor any anticipated return on investment is offered at any time. Past performance is no guarantee of future results. None of the information provided by Hall and Co Trading constitutes a solicitation to engage in any trading/investment activity.\n<br>\n<br>By using the Hall and Co Trading website and other services provided, you agree not to hold Hall and Co Trading, or any of its affiliates, liable for decisions that are based on information contained in blog posts, reader responses to blog posts, or information anywhere else on their website or in promotional material.\n<br>\n<br>Notwithstanding any other agreement or other communications between Hall and Co Trading and clients or potential clients to the contrary, receiving or using any material provided by Hall and Co Trading or accessing or using Hall and Co Trading’s website, at any time and through any means, whether directly or indirectly, represents acknowledgement and agreement by such person of the foregoing terms of the Disclaimer and Terms and Conditions.\n<br>\n<br>\n<br>\n<br>Disclaimer\n<br>\n<br>Trading foreign exchange on margin carries a high level of risk, and may not be suitable for all investors. The high degree of leverage can work against you as well as for you. Before deciding to invest in foreign exchange you should carefully consider your investment objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your initial investment. If the market moves against you, you may sustain a total loss greater than the amount you initially deposited into your account, therefore, you should not engage in trading unless you fully understand the nature of the transactions you are entering into and the extent of your exposure to loss, and you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading, and seek advice from an independent financial advisor if you have any doubts.\n<br>\n<br>\n<br>\n<br>Risk Disclosure\n<br>\n<br>Decisions to buy, sell, hold or trade in securities, commodities and other investments involve risk and are best made based on the advice of qualified financial professionals. Any trading in securities or other investments involves a risk of substantial losses. Generally foreign securities, options, futures and currency transactions involve exposure to a combination of the following risk factors: market risk, credit risk, settlement risk, liquidity risk, operational risk and legal risk. There can be serious market disruptions if economic or political or other unforeseen events locally or overseas affect the market.  The practice of “Day Trading” involves particularly high risks and can cause you to lose substantial sums of money. Before undertaking any trading program, you should consult a qualified financial professional. Please consider carefully whether such trading is suitable for you in light of your financial condition and ability to bear financial risks.\n<br>\n<br>\n<br>\n<br>Electronic Trading Risks\n<br>\n<br>Before you engage in transactions using an electronic system, you should carefully review the rules and regulations of the exchanges offering the system and/or listing the instruments you intend to trade. Online trading has inherent risk due to system response and access times that may vary due to market conditions, system performance, and other factors. You should understand these and additional risks before trading.\n<br>\n<br>\n<br>\n<br>Opinions/Commentary\n<br>\n<br>All opinions, chats, messages, news, research, analyses, prices, or other information available on this website is designed for educational use or is provided as general market commentary and is not an invitation to engage in any trading/investment activity. The information available on this website is not, and should never be considered investment advice. Hall and Co Trading will not accept liability for any loss or damage, including without limitation to, any loss of profit, which may arise directly or indirectly from use of or reliance on such information. Neither Hall and Co Trading, nor any of its affiliates or associates involved in the in the production and maintenance of these products or this site, is a registered Broker/Dealer or Investment Advisor in any State or Federally-sanctioned jurisdiction. All purchasers of products referenced at this site are encouraged to consult with a licensed representative of their choice regarding any particular trade or trading strategy. Failure to seek detailed, professional, personally tailored advice prior to acting could lead to you acting contrary to your own best interests &amp; could lead to losses of capital. Trading requires risking money in pursuit of future gain. That is your decision. Do not risk any money you cannot afford to lose.\n<br>\n<br>\n<br>\n<br>Proprietary Information\n<br>\n<br>You acknowledge and understand that Hall and Co Trading has devoted a substantial amount of time and effort, and has incurred substantial costs, in developing its Proprietary Information. Hall and Co Trading’s Proprietary Information is not in the public domain and reasonable steps are continuously taken to ensure that this Proprietary Information remains secret. The term “Proprietary Information” shall mean trade secrets, confidential knowledge, data or any other proprietary information of Hall and Co Trading. By way of illustration but not limitation, “Proprietary Information” includes trade secrets, inventions, ideas, patterns, processes, formulas, trading methods, source and object codes, data, programs, compilations, written training course materials, know-how, improvements, discoveries, publications, developments, education courses, designs and techniques, information regarding plans for research, development, new products, marketing and selling materials and methods, business plans, budgets and unpublished financial statements, licenses, methods of operations, prices and costs, business practices, customer sources and lists, and suppliers. Hall and Co Trading derives economic value, both actual and potential, from not having its Proprietary Information generally known or ascertainable by other persons who can obtain economic value from its unauthorized disclosure or use. Such Proprietary Information may not be used, reproduced, or disclosed to any other parties for any other purpose without the expressed written permission of Hall and Co Trading. Specifically, you agree that you shall not for any reason, at any time, without the written consent of Hall and Co Trading, disclose to any person or entity any of Hall and Co Trading’s Proprietary Information.\n<br>\n<br>\n<br>\n<br>Accuracy of Information\n<br>\n<br>The content on this website is subject to change at any time without notice. You acknowledge that news, information, and performance data made available on the website is supplied by sources believed to be reliable, but Hall and Co Trading does not guarantee its accuracy or completeness, and will not accept liability for any loss or damage which may arise directly or indirectly from the content or your inability to access the website, for any delay in or failure of the transmission, or the receipt of any instruction or notifications sent through this website or distributed through other means. All the services and information is provided “as is” with no warranty of any kind, express or implied. We do not warrant the services and information will be provided regularly, uninterrupted or error-free, that defects will be corrected, or that the Website is free of viruses or other harmful components. We are not responsible for any communication failures, distortions or delays when using our Website.\n<br>\n<br>\n<br>\n<br>Past Performance\n<br>\n<br>Past performances are not necessarily indicative of future results. No representation is being made that any account will or is likely to achieve profits or losses similar to those discussed on this website. Any income claims are typical of top performers and your results will vary. Statements regarding income, whether expressed or implied, do NOT represent a guarantee.\n<br>\n<br>\n<br>\n<br>CFTC RULE 4.41 – HYPOTHETICAL OR SIMULATED PERFORMANCE RESULTS HAVE CERTAIN LIMITATIONS. UNLIKE AN ACTUAL PERFORMANCE RECORD, SIMULATED RESULTS DO NOT REPRESENT ACTUAL TRADING. ALSO, SINCE THE TRADES HAVE NOT BEEN EXECUTED, THE RESULTS MAY HAVE UNDER-OR-OVER COMPENSATED FOR THE IMPACT, IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. SIMULATED TRADING PROGRAMS IN GENERAL ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT. NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFIT OR LOSSES SIMILAR TO THOSE SHOWN.\n<br>\n<br>\n<br>\n<br>Distribution\n<br>\n<br>This site is not intended for distribution, or use by, any person in any country where such distribution or use would be contrary to local law or regulation. None of the services or investments referred to on this website are available to persons residing in any country where the provision of such services or investments would be contrary to local law or regulation. It is the responsibility of visitors to this website to ascertain the terms of and comply with any local law or regulation to which they are subject.\n<br>\n<br>\n<br>\n<br>Testimonials\n<br>\n<br>Testimonials found on this website may or may not be representative of all reasonably comparable clients. Past performance is not indicative of future results or success. The individuals quoted in the testimonials used were not paid to be quoted unless specifically identified. The testimonials used on this website are non-representative of all clients; certain accounts may have worse performance than that indicated. Individual results vary and no representation is being made that clients will or are likely to achieve profits or incur losses comparable to those that may be shown.\n<br>\n<br>\n<br>\n<br>Third Party\n<br>\n<br>Any links provided to other websites are offered as a matter of convenience and in no way are meant to imply that Hall and Co Trading endorses, sponsors, promotes or is affiliated with the owners of or participants in those sites, or endorses or warrants any information contained on those sites, unless expressly stated. Furthermore, Hall and Co Trading does not endorse, guarantee or warranty any third party products advertised on its site, in its promotional materials, or otherwise referenced in any information provided by Hall and Co Trading or derived from Hall and Co Trading’s website, and Hall and Co Trading expressly disclaims any responsibility and accepts no liability with respect to such information and products. Hall and Co Trading may receive a fee from a service provider that has a link or advertisement on Hall and Co Trading’s website or is referenced in the information provided by Hall and Co Trading.\n<br>\n<br>Cancellation Policy\n<br>There are no contracts or mandatory minimum commitments with any of our membership plans. You are free to cancel your membership at any time. If the time comes that you need to discontinue your membership you can do so by sending an email to Support@HallandCoTrading.com. To ensure that your cancellation is processed before your membership automatically renews, we encourage you to submit your cancellation request at least one business day prior to your renewal date. We do not offer refunds for cancellations processed after your payment has already been captured. Cancellation requests that are submitted in the middle of your pay period will be processed when received, and any/all recurring payments associated with your request will be made inactive immediately. Your access to the Hall &amp; Co Trading membership website will remain active throughout the remainder of your pay period, but Hall &amp; Co Trading cannot offer refunds or apply credits to your account for any time remaining on services already paid for.\n<br>\n<br>Refund Policy\n<br>Our refund policy is very simple…we don’t offer them. You are in the business of trading, and at Hall &amp; Co Trading we treat your order the same way the market would; meaning once your order has been placed and your payment has been processed, there is no turning back, even if things don’t turn out how you expected. If that scares you, or if you have any inclination that our products or services are not right for you, then please do not submit your order. If you have any questions about what we offer, or if you need further clarification about what your purchase will include, then please don’t hesitate to contact us at (Support@HallandCoTrading.com), we are happy to answer your questions and help you in any way that we can.\n<br>\n<br>The truth is our refund policy is strict because we want to promote professionalism in every interaction we have with our clients. Just as we encourage you to perform your due diligence, assess your personal situation, and make an informed decision before you place a trade, we also encourage you to do the same when making the decision to join the community here at Hall &amp; Co Trading. We give everything we have to help traders succeed, and if we’re going to devote that level of energy and effort then we want to ensure that it’s directed towards individuals who are serious about their future and committed to their success! If that’s not you, then that’s ok. We understand that our services may not be suited for everyone.\n<br>\n<br>Likewise, as much as we would enjoy the opportunity to work with you, if your financial situation that has you worried about paying your rent, if you’re having to take on debt just to feed your family, or if you’re concerned about being able to afford your medication next month, then we must ask that you resist the temptation to sign up for our services. The last thing we want to do is reply to your email, where you explain your unfortunate financial circumstance and ask for a refund, by sending you a link to this page with a simple note that says “…sorry.” So please don’t put yourself in that awkward situation.\n<br>\n<br>",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;TERMS &amp; CONDITIONS",
+          "meta": "<br><br><br>By accessing the website at http://sniptrading.com, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.<br><br>Sniptrading Analytica (referred to herein as “Sniptrading.com”, \"Sniptading Analytia\", “we” or “us”) and its Affiliates (defined below) provide certain free and paid for market research, analysis and information services through its web site - www.Sniptrading.com (the “Site”) and via email, #Slack, SMS or other delivery methods (“Services”). In consideration of Sniptrading.com (or any of its Affiliates) providing, or continuing to provide, you (you may be referred to herein as “you” or “user”) with access to the Site and the Services, you hereby agree that your use of this Site and any Service shall be expressly pursuant to and conditioned upon your agreement to the following Terms and Conditions (“Terms”).<br><br><br>Acknowledgement of Disclosures and Disclaimers \n<br>\n<br>The content on this site is aimed solely for the use by 'EXPERIENCED' investors/traders in the f inancial markets ie Forex trading as the contents are intended to be understood by professional users who are fully aware of the inherent risks in trading financial assets.. <br><br>The materials on Sniptrading Analytica's website are provided on an 'as is' basis. Sniptrading Analytica makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.\n<br>Further, Sniptrading Analytica does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site. Users are trading on their own risk and sniptrading.com shall not be responsible under any circumstances for the consequences of such activities. Sniptrading.com and its affiliates, in no event, be liable to users or any third parties for any consequential damages, however arising, including but not limiting to damages caused by negligence whether such damages were foreseen or unforeseen. All information provided in the service is proprietary to Sniptrading.com and may not be copied or redistributed without prior written approval of sniptrading.com. sniptrading.com shall not be liable for any damages or costs arising out of your use of any of the services or companies accessed through the linkage to our web site over the Internet.\n<br><br>Limitations of Liability<br><br>In no event shall Sniptrading Analytica or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Sniptrading Analytica's website, even if Sniptrading Analytica or a Sniptrading Analytica authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.<br>\n<br>Personal Data Info clause&nbsp;<br>\n<br>Your personal data will only be used by sniptrading.com for members' profile administration and to provide our services. The information given will not be passed onto any party. You may also view and correct your personal data by written request.<br><br>Every Sniptrading.com account is designed for the usage of a single user only and the registrant is the sole person authorized to use Sniptrading.com's services. Sniptrading.com has rights to terminate any suspected login sharing account or distribution without prior notice and reserve all the rights to take legal action against unauthorized users.\n<br>\n<br>All subscription payments shall be non-refundable. Sniptrading.com will continue to provide the service for the agreed duration, but no refund is allowed once subscription for a specific period has been settled upon and paid for by the users.\n<br>\n<br>All payments shall be due immediately in advance upon subscription / renewal of the service. In the event of non-receipt of payment within 7 working days of confirmation of subscription / renewal, the service shall be discontinued without further notice.<br><br>Risk Management<br>\n<br>It should also be noted that the reports of success can be posted on the website. These performance results are for viewers ' reference only and do not guarantee future results, even though our more recent results have consistently surpassed previous performances.<br><br>It should be understood that trading entails high risk and that you can lose a lot of money. Also surplus funds should be put at risk, and anyone who does not have such funds should not engage in trading financial instruments. Trading is not suitable for everyone.<br><br>Market Opinions \n<br>\n<br>Any views, data, research, analysis, prices or other information contained on this website shall be provided as general market comments and shall not constitute investment advice. Sniptrading Analytica will not accept liability for any loss or damage, including without limitation to, any loss of profit, which may arise directly or indirectly from use of or reliance on such information.&nbsp;<br>\n<br>High Risk Investment\n<br><br>There is a risk that you could suffer a loss of some or all of your initial investment and therefore you should not invest money that you can not afford to lose. You should be aware of all the risks associated with trading and, if you have any doubts, seek advice from an independent financial advisor.<br>\n<br>Accuracy of Information\n<br><br>The content on this website is subject to change at any time without notice, and is provided for the sole purpose of assisting traders to make independent investment decisions. Sniptrading Analytica Limited has taken reasonable measures to ensure the accuracy of the information on the website, however, does not guarantee its accuracy, and will not accept liability for any loss or damage which may arise directly or indirectly from the content or your inability to access the website, for any delay in or failure of the transmission or the receipt of any instruction or notifications sent through this website.\n<br><br>The materials appearing on Sniptrading Analytica's website could include technical, typographical, or photographic errors. Sniptrading Analytica does not warrant that any of the materials on its website are accurate, complete or current. Sniptrading Analytica may make changes to the materials contained on its website at any time without notice. However Sniptrading Analytica does not make any commitment to update the materials.<br>\n<br>Distribution\n<br><br>This site is not intended for distribution, or use by, any person in any country where such distribution or use would be contrary to local law or regulation.&nbsp;<br><br>None of the services or investments referred to in this website are available to persons residing in any country where the provision of such services or investments would be contrary to local law or regulation. It is the responsibility of visitors to this website to ascertain the terms of and comply with any local law or regulation to which they are subject.<br><br>Use License<br><br>Permission is granted to temporarily receive one copy of the materials (information or otherwise) on Sniptrading Analytica's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:\n<br>&nbsp; &nbsp;i. modify or copy the materials;\n<br>&nbsp; &nbsp;ii. use the materials for any commercial purpose, or for any public display (commercial or non- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;commercial);\n<br>&nbsp; &nbsp;iii. attempt to decompile or reverse engineer any software contained on Sniptrading Analytica's website;\n<br>&nbsp; &nbsp; iv. remove any copyright or other proprietary notations from the materials; or\n<br>&nbsp; &nbsp; &nbsp;v. transfer the materials to another person or \"mirror\" the materials on any other server.\n<br><br>This license shall automatically terminate if you violate any of these restrictions and may be terminated by Sniptrading Analytica at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.<br><br>Term and Termination \n<br>\n<br>You acknowledge that the term of your use of the Site or any Service is “at will” in the sole discretion of sniptrading.com. Accordingly, you hereby agree that sniptrading.com  may, without prior notice to you, terminate your access to and use of the Site or any Service, with or without cause.&nbsp;<br><br>Indemnification <br>\n<br>On behalf of yourself and your heirs, successor and assigns, you hereby agree to indemnify, defend and hold sniptrading.com and its Affiliates harmless from and against any and all claims, damages, losses, costs (including reasonable attorneys’ fees), or other expenses that arise directly or indirectly out of or from: \n<br>\n<br>Your use of the Site or any Service; <br>\n<br>Your decision to follow or act upon any trend, alerts, recommendation or opinion received, contained or referenced in or through the Site or any Service or from any third party service provider; \n<br>Any inaccurate, incomplete or erroneous information received, contained or referenced in or through the Site or any Service, whether or not sniptrading.com had an opportunity to remove or correct such information; \n<br>Your violation of these Terms; or \n<br>Your violation of any third party service provider terms, conditions and rules and/or the rights of any third party. <br>\n<br>Changes to the Terms of Use <br><br>Sniptrading Analytica may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.<br><br><br>Membership Options &amp; Payment Plans<br><br>Sniptrading.com offers its products and services through the Sniptrading.com subscription, which is available on 30 days and 90 days (soon to come) subscriptions. When you submit an order for any of the above mentioned subscription plans, you authorize sniptrading.com to automatically process future payments on your account according to the price and period of payment indicated on the order form.<br><br>The Sniptrading.com subscription service will be billed in advance using the payment information on your account file with our payment processor as we do not store or have access to any payment details; and payments will continue to be processed on your account until you terminate your membership in compliance with our cancelation policy.<br><br>\nCancellation Policy&nbsp;<br><br>There are no contracts or mandatory minimum obligations under any of our membership plans. You can cancel your membership at any time. If the time comes for you to discontinue membership, you can do so by sending an email to cancellations@sniptrading.com. In order to ensure that your cancelation is processed prior to the automatic renewal of your membership, we urge you to submit your cancelation request at least two business day before the renewal date. We do not offer refunds for cancelations made after the payment has already been received. Cancellation requests sent in the middle of your pay period will be processed upon receipt, and any ongoing payments connected with your request will be made inactive immediately but access to the subscribed Plan will remain active throughout the remainder of your pay period. Moreover, Sniptrading.com may not offer refunds or add credits to your account for any time remaining on services already paid for<br><br>Refund Policy <br>\n<br>Our refund policy is very clear. No Refund. You're in the business of trading, and we're treating your order the same way the market would;  we offered refund and free trials in the past but this was grossly abused. If you have any questions about what we offer or further clarification about what your purchase will include, please feel free to contact us at hello@sniptrading.com, we're happy to answer your questions and assist in any way we can.<br><br>Sniptrading.com subscription plans are valuable information services which are considered to be consumed at the point of receipt by the user, which can not reasonably be returned once consumed, and we therefore hoped to have solicited your understanding in this regard.<br><br>Governing Law<br><br>These terms and conditions are governed by and construed in accordance with the laws of the EU &amp; United Kingdom and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.<br><br>Other <br>\n<br>The provision of this Site and all Services, and performance of all agreement and covenants required by these Terms shall be deemed to be made without regard to its principals of conflict of laws.Accordingly, you hereby agree to submit to the personal and exclusive jurisdiction for any and all claims arising from your use of the Site or any Service. Those users who access the Site or Services from another jurisdiction hereby waive any jurisdictional, venue, or inconvenient forum objections to such courts. Further, all users hereby waive the right to a trial by jury for any claims arising out of their access or use of the Site or any Service. We reserve the right to limit the availability of the Service to any person, geographic area, or jurisdiction we so desire, at any time and in our sole discretion, and to limit the quantities of any such service or product that we provide. If any provision of these Terms is found to be unlawful, void, or for any reason unenforceable, then that provision shall be deemed modified only to the extent necessary to make such provision lawful and enforceable and if such provision cannot be so modified, severed from the Terms; provided that such modification or removal shall not affect the validity and enforceability of any remaining provisions. No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. Any heading, caption or section title contained in the Terms is inserted only as a matter of convenience and in no way defines or explains any section or provision hereof.&nbsp;<br><br><br>",
           "_tags": [
             "Theme"
           ],
@@ -1472,7 +1476,7 @@
               "size": 0
             }
           },
-          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
@@ -1490,7 +1494,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -1523,7 +1527,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1692,7 +1696,7 @@
               "size": 0
             }
           },
-          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
@@ -1710,7 +1714,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1762,7 +1766,7 @@
             {
               "authorName": "SUFFIAN A.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-21\">WHAT IS A PIP?</a><br></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-20\">WHAT DOES \"ENTER,\" \"STOPS\" \"TP\" IN THE ALERT MEAN?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-23\">HOW LONG DOES IT TAKE TO START RECEIVING SIGNALS?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-22\">CAN I USE ANY BROKER?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-22\">WHAT IS TECHNICAL ANALYSIS?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-24\">WHAT IS ALGORITHM TRADING?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-25\">WHAT IS A TRADING STRATEGY?</a></p><p class=\"mbr-reviews__p\"><br></p>"
+              "text": "<p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-21\">WHAT IS A PIP?</a><br></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-20\">WHAT DOES \"ENTER,\" \"STOPS\" \"TP\" IN THE ALERT MEAN?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-23\">HOW LONG DOES IT TAKE TO START RECEIVING SIGNALS?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-23\">CAN I USE ANY BROKER?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-22\">WHAT IS TECHNICAL ANALYSIS?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-24\">WHAT IS ALGORITHM TRADING?</a></p><p class=\"mbr-reviews__p\"><a href=\"faqs.html#header3-25\">WHAT IS A TRADING STRATEGY?</a></p><p class=\"mbr-reviews__p\"><br></p>"
             },
             {
               "authorName": "JHOLLMAN C.",
@@ -1818,7 +1822,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2138,7 +2142,7 @@
               "size": 0
             }
           },
-          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"terms.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
           "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
           "_tags": [
@@ -2146,6 +2150,548 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-15"
+        }
+      ]
+    },
+    "privacypolicy.html": {
+      "settings": {
+        "title": "Privacy Policy",
+        "meta_descr": "Terms & Conditions, Privacy Policy and Disclaimers. Full suncription and refund policy.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 8
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "sniptrading",
+              "link": "https://sniptrading.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2b"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;PRIVACY POLICY",
+          "meta": "<br><br><br>Your privacy is important to us. It is Sniptrading Analytica's policy to respect your privacy regarding any information we may collect from you across our website, http://sniptrading.com, and other sites we own and operate.\n<br>\n<br>We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.\n<br>\n<br>We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.\n<br>\n<br>We don’t share any personally identifying information publicly or with third-parties, except when required to by law.\n<br>\n<br>Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.\n<br>\n<br>You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.\n<br>\n<br>Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.\n<br>\n<br>This policy is effective as of 1 January 2020.\n<br>\n<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2c"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7ac673",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2d"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/m-b-m-zzoa5g8hspi-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2e"
+        }
+      ]
+    },
+    "discounts.html": {
+      "settings": {
+        "title": "Discount",
+        "meta_descr": "Choose your subcription Plan(s) below. Forex and Gold/Oil/Bitcoin, or have both Plans combined in our Premium - All Plan for $130 monthly averaging 2,000 pips Profits.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "sniptrading",
+              "link": "https://sniptrading.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2h"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Choose your Trading Plan",
+          "meta": "&nbsp; All Plans are 30 DAY rolling subscription. All subscriptions can be cancelled at any time, see <a href=\"terms.html\">Terms</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trade Alerts are released during the European &amp; New York sessions.<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2i"
+        },
+        {
+          "_params": {
+            "firstType": "default",
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "hidden",
+            "fifthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Forex",
+          "currency1": "$",
+          "price1": "97",
+          "period1": "per 30 days",
+          "list1": "<div style=\"text-align: center;\"><b>Average 3 - 6 Alerts Weekly</b></div><div style=\"text-align: center;\"><b><br></b></div><div style=\"text-align: center;\"><b>Monthly profits excess of 1.000 pips</b><br></div><div style=\"text-align: center;\"><b><br></b></div><div style=\"text-align: center;\"><b>SMS &amp; Email Alerts</b></div>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "title2": "Gold/Oil/Bitcoin",
+          "currency2": "$",
+          "price2": "146",
+          "period2": "per 30 days",
+          "list2": "<ul><li><b>Average 3 - 6 Alerts Weekly</b></li><li><b>Month ly profits excess of 1.600 pips&nbsp;</b></li><li><b>SMS &amp; Email Alerts</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "title3": "PREMIUM - All",
+          "currency3": "$",
+          "price3": "198",
+          "period3": "per 30 days",
+          "list3": "<b>All &nbsp;Alerts&nbsp;</b><ul><li></li></ul><div><b>\n</b></div><div><b>Monthly profits 3.800 pips</b></div><div><b>PIP-LOCK guarantee 3,000 pips</b></div><div><b>\n</b></div><div><b>\n</b></div><div><b>SMS &amp; Email Alerts</b></div><div><b>#Slack Alerts &amp; Private channel access</b></div><div><b><br></b></div><div><b>Regular bonus Alerts(Dow. FTSE, Dax)</b></div>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "title4": "ULTIMATE",
+          "currency4": "$",
+          "price4": "200",
+          "period4": "per month",
+          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#585555"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "pricing-table1-2j"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DISCOUNTS &amp; PROMOTIONS",
+          "meta": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> Coming soon! </b>&nbsp;We will soon be availing subscribers with more Snip payment options!<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 90 Days subcription FX &nbsp;- $227<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 90 Days subcription Gold/Oil/Bitcoin - $350<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 90 days subcription Premium &nbsp;- $476<br><br>&nbsp;* PAY FOR SUBSCRIPTION WITH CRYPTO CURRENCY FOR INSTANT 25% DISCOUNT ACROSS ALL PLANS *",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2k"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7ac673",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/m-b-m-zzoa5g8hspi-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2m"
+        }
+      ]
+    },
+    "brokers.html": {
+      "settings": {
+        "title": "Brokers",
+        "meta_descr": "Terms & Conditions, Privacy Policy and Disclaimers. Full suncription and refund policy.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 9
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "sniptrading",
+              "link": "https://sniptrading.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2n"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Partners",
+          "meta": "<br><br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2o"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7ac673",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/m-b-m-zzoa5g8hspi-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2q"
         }
       ]
     }
