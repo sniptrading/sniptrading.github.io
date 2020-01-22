@@ -116,7 +116,7 @@
               "font-size": "36px"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "right"
             }
           }
         },
