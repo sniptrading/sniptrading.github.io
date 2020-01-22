@@ -101,7 +101,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Clear, Accurate &amp; Actionable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Low risk Trade Alerts",
-          "text": "Amplify your Trading Profits with High degree accuracy<br>&nbsp; &nbsp; Real-time notification via #Slack, SMS &amp; Email",
+          "text": "Amplify your Trading Profits with High degree accuracy<br>Real-time notification via #Slack, SMS &amp; Email",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#testimonials1-NaN\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
           "_tags": [
             "Theme"
@@ -116,7 +116,7 @@
               "font-size": "36px"
             },
             "P": {
-              "text-align": "right"
+              "text-align": "left"
             }
           }
         },
