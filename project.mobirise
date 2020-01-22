@@ -110,7 +110,7 @@
           "_anchor": "header1-NaN",
           "_styles": {
             "H1": {
-              "text-align": "left",
+              "text-align": "center",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-size": "36px"
