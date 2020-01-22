@@ -12,8 +12,8 @@
         "#3c3c3c"
       ]
     },
-    "currentPage": "faqs.html",
-    "uniqCompNum": 104,
+    "currentPage": "index.html",
+    "uniqCompNum": 115,
     "versionPublish": "4.11.4"
   },
   "pages": {
@@ -100,7 +100,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Clear, Accurate &amp; Actionable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Low risk Trade Alerts",
+          "title": "Clear, Accurate &amp; Actionable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Low risk Trade Alerts",
           "text": "Amplify your Trading Profits with High degree accuracy<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Real-time notification via #Slack, SMS &amp; Email",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#testimonials1-NaN\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
           "_tags": [
@@ -114,6 +114,9 @@
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-size": "36px"
+            },
+            "P": {
+              "text-align": "center"
             }
           }
         },
@@ -172,7 +175,7 @@
           },
           "title": "Watch sniptrading in Action!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Our Forex Plan averages 800 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$97</b></a></p><p>Our Gold/Oil/Silver averages 1,200pips &nbsp;-<a href=\"plans.html\"> </a><b><a href=\"plans.html\" class=\"text-success\">$146</a></b></p><p>Our Premium Plan averages 2,000 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$198</b></a></p><p>ALL TRADES IN VIDEO WAS LIVE TRADED &amp; POSTED LIVE ! VERIFYABLE on our public &nbsp;<a href=\"https://twitter.com/sniptrading?lang=en\" target=\"_blank\" class=\"text-info\">TWITTER</a>&nbsp;/<a href=\"https://www.instagram.com/sniptrading/\" class=\"text-danger\"> INSTAGRAM</a> : &nbsp; &nbsp; @sniptrading</p>",
+          "text": "<p>Our Forex Plan excess of 800 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$97</b></a></p><p>Our Gold/Oil/Bitcoin excess of 1,200pips &nbsp;-<a href=\"plans.html\"> </a><b><a href=\"plans.html\" class=\"text-success\">$146</a></b></p><p>Our Premium Plan excess of 2,000 pips monthly - <a href=\"plans.html\" class=\"text-success\"><b>$198</b></a></p><p>ALL ALERTS &amp; TRADES IN THE VIDEO WAS LIVEDTREAMED!</p><p>Check out @sniptrading.com on &nbsp;<a href=\"https://twitter.com/sniptrading?lang=en\" class=\"text-info\">Twitter</a>&nbsp;&amp;&nbsp;<a href=\"https://www.instagram.com/sniptrading/\" class=\"text-danger\">&nbsp;Instagram</a>&nbsp;&nbsp;</p><p>A glance of our posts will show how and why we are able to consistently deliver Pips.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"recenttrades.html\" data-toolbar=\"-mbrBtnMove\">RECENT TRADES</a>",
           "_tags": [
             "Theme"
@@ -1137,7 +1140,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1340,7 +1343,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2220,7 +2223,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2467,19 +2470,19 @@
           "title1": "Forex",
           "currency1": "$",
           "price1": "97",
-          "period1": "per 30 days",
+          "period1": "per 90 days",
           "list1": "<div style=\"text-align: center;\"><b>Average 3 - 6 Alerts Weekly</b></div><div style=\"text-align: center;\"><b><br></b></div><div style=\"text-align: center;\"><b>Monthly profits excess of 1.000 pips</b><br></div><div style=\"text-align: center;\"><b><br></b></div><div style=\"text-align: center;\"><b>SMS &amp; Email Alerts</b></div>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "title2": "Gold/Oil/Bitcoin",
           "currency2": "$",
           "price2": "146",
-          "period2": "per 30 days",
+          "period2": "per 90 days",
           "list2": "<ul><li><b>Average 3 - 6 Alerts Weekly</b></li><li><b>Month ly profits excess of 1.600 pips&nbsp;</b></li><li><b>SMS &amp; Email Alerts</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "title3": "PREMIUM - All",
           "currency3": "$",
           "price3": "198",
-          "period3": "per 30 days",
+          "period3": "per 90 days",
           "list3": "<b>All &nbsp;Alerts&nbsp;</b><ul><li></li></ul><div><b>\n</b></div><div><b>Monthly profits 3.800 pips</b></div><div><b>PIP-LOCK guarantee 3,000 pips</b></div><div><b>\n</b></div><div><b>\n</b></div><div><b>SMS &amp; Email Alerts</b></div><div><b>#Slack Alerts &amp; Private channel access</b></div><div><b><br></b></div><div><b>Regular bonus Alerts(Dow. FTSE, Dax)</b></div>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "title4": "ULTIMATE",
@@ -2608,7 +2611,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2674,6 +2677,419 @@
           ],
           "_name": "header3",
           "_anchor": "header3-2o"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": false,
+            "showCaptions": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/xm.com-featured-image-400x246.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "https://clicks.pipaffiliates.com/c?c=413142&l=en&p=1",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "BOOTSTRAP 3",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icmarkets-1-257x196.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "https://www.icmarkets.com/?camp=37373",
+              "alt": "icmarlets",
+              "title": "icmarkets",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "RESPONSIVE",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/hy-markets-reviews-logo-3-300x300.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "https://clicks.hyaffiliates.com/afs/come.php?cid=114329&ctgid=1612&atype=1&brandid=12",
+              "alt": "HYmarkets",
+              "title": "HYmarkets"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-2w"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/xm.com-featured-image-1-400x246.jpeg",
+              "link": "https://clicks.pipaffiliates.com/c?c=413142&l=en&p=1",
+              "alt": "xm",
+              "title": "xm",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "XM.COM",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>XM.com deliver ultra low spreads across a huge range of Forex markets. Flexible lot sizes, and Micro and XM Zero accounts accommodate every level of trader.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2x"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "42",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/icmarkets-2-257x196.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "ICMarkets",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Trade Forex on 0.0 pip spreads with the world's leading True ECN forex broker - IC Markets. Great choice for serious traders. ASIC regulated.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-35"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "38",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hy-markets-reviews-logo-2-300x300.jpeg",
+              "link": "https://clicks.hyaffiliates.com/afs/come.php?cid=114329&ctgid=1612&atype=1&brandid=12",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "HYmarkets",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2y"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "39",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Plus500",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Plus500 Offer forex trading via CFDs with tight variable spreads and a range of well over 70 currency pairs. Free Unlimited Demo Account.<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-36"
         },
         {
           "_inherit": "msg-box1",
@@ -2752,6 +3168,240 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-2q"
+        }
+      ]
+    },
+    "altcrypto.html": {
+      "settings": {
+        "title": "crypotopay",
+        "meta_descr": "Choose your subcription Plan(s) below. Forex and Gold/Oil/Bitcoin, or have both Plans combined in our Premium - All Plan for $130 monthly averaging 2,000 pips Profits.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">JOIN NOW</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "sniptrading",
+              "link": "https://sniptrading.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sniptrading</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2z"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Choose your Trading Plan",
+          "meta": "&nbsp; All Plans are 30 DAY rolling subscription. All subscriptions can be cancelled at any time, see <a href=\"terms.html\">Terms</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trade Alerts are released during the European &amp; New York sessions.<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-30"
+        },
+        {
+          "_params": {
+            "firstType": "default",
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "hidden",
+            "fifthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Forex",
+          "currency1": "$",
+          "price1": "97",
+          "period1": "per 90 days",
+          "list1": "<div style=\"text-align: center;\"><b>Average 3 - 6 Alerts Weekly</b></div><div style=\"text-align: center;\"><b><br></b></div><div style=\"text-align: center;\"><b>Monthly profits excess of 1.000 pips</b><br></div><div style=\"text-align: center;\"><b><br></b></div><div style=\"text-align: center;\"><b>SMS &amp; Email Alerts</b></div>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "title2": "Gold/Oil/Bitcoin",
+          "currency2": "$",
+          "price2": "146",
+          "period2": "per 90 days",
+          "list2": "<ul><li><b>Average 3 - 6 Alerts Weekly</b></li><li><b>Month ly profits excess of 1.600 pips&nbsp;</b></li><li><b>SMS &amp; Email Alerts</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "title3": "PREMIUM - All",
+          "currency3": "$",
+          "price3": "198",
+          "period3": "per 90 days",
+          "list3": "<b>All &nbsp;Alerts&nbsp;</b><ul><li></li></ul><div><b>\n</b></div><div><b>Monthly profits 3.800 pips</b></div><div><b>PIP-LOCK guarantee 3,000 pips</b></div><div><b>\n</b></div><div><b>\n</b></div><div><b>SMS &amp; Email Alerts</b></div><div><b>#Slack Alerts &amp; Private channel access</b></div><div><b><br></b></div><div><b>Regular bonus Alerts(Dow. FTSE, Dax)</b></div>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "title4": "ULTIMATE",
+          "currency4": "$",
+          "price4": "200",
+          "period4": "per month",
+          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#585555"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "pricing-table1-31"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DISCOUNTS &amp; PROMOTIONS",
+          "meta": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> Coming soon! </b>&nbsp;We will soon be availing subscribers with more Snip payment options!<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 90 Days subcription FX &nbsp;- $227<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 90 Days subcription Gold/Oil/Bitcoin - $350<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 90 days subcription Premium &nbsp;- $476<br><br>&nbsp;* PAY FOR SUBSCRIPTION WITH CRYPTO CURRENCY FOR INSTANT 25% DISCOUNT ACROSS ALL PLANS *",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-32"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7ac673",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Don’t miss our next trade.<br><span style=\"font-weight: normal;\">Clear, Accurate &amp; Actionable low risks Alerts that will amplify your trading Profits!</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"plans.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-33"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/m-b-m-zzoa5g8hspi-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sniplogo-1-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><a href=\"about.html\">ABOUT</a></strong><br><strong><a href=\"terms.html\">TERMS</a></strong><br><strong><a href=\"privacypolicy.html\">PRIVACY POLICY</a></strong><strong><br></strong><br><br>",
+          "text2": "<b>DISCLAIMER</b><br>Trading leverage products carries significant risks to your investments",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b><a href=\"getintouch.html\">CONTACT</a></b></li><li><b><a href=\"FAQs.html\">FREQUENTLY ASKED QUESTIONS</a></b></li><li><br></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-34"
         }
       ]
     }
