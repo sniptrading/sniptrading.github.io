@@ -13,7 +13,7 @@
       ]
     },
     "currentPage": "index.html",
-    "uniqCompNum": 116,
+    "uniqCompNum": 117,
     "versionPublish": "4.11.4"
   },
   "pages": {
@@ -57,7 +57,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -244,17 +244,17 @@
             {
               "authorName": "JOIN NOW",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\"><b>1.<a href=\"plans.html\" class=\"text-success\"> Sign up</a>\n</b></p><p class=\"mbr-reviews__p\">Choose your Trading Plan. Our alerts will be sent instantly upon release and received Real-Time anywhere in the globe via # Slack &amp; SMS.\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\"><b>Complete Purchase\n</b></p><p class=\"mbr-reviews__p\">Simply use our secure payment options to complete your purchase. We're transparent, we're using the industry-leading payment processors Stripe to process all transactions</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan - <b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">&nbsp;Forex</a> </b>&nbsp;<b> <a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a></b>&nbsp; <b><a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b></p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>1.<a href=\"plans.html\" class=\"text-success\"> Sign up</a>\n</b></p><p class=\"mbr-reviews__p\">Choose your Trading Plan. Our alerts will be sent instantly upon release and received Real-Time anywhere in the globe via # Slack &amp; SMS.\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\"><b>Complete Purchase\n</b></p><p class=\"mbr-reviews__p\">Simply use our secure payment options to complete your purchase. We're transparent, we're using the industry-leading payment processors Stripe to process all transactions</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">&nbsp;Forex</a>&nbsp;&nbsp;| &nbsp;</b><b><a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a>&nbsp;</b>&nbsp;<b>|&nbsp;</b>&nbsp;<b><a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b></p>"
             },
             {
               "authorName": "MAKE PAYMENT",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\"><b>2. Access Granted\n</b></p><p class=\"mbr-reviews__p\">Once your payment has been received, you will receive our welcome email with an invitation to the exclusive Premium &amp; Ultimate-Snip Plans # Slack channel. Alerts are also sent by SMS. We evaluate the markets so that only the Best trade opportunities are released.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan -  <b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">Forex</a> &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a> &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b></p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>2. Access Granted\n</b></p><p class=\"mbr-reviews__p\">Once your payment has been received, you will receive our welcome email with an invitation to the exclusive Premium &amp; Ultimate-Snip Plans # Slack channel. Alerts are also sent by SMS. We evaluate the markets so that only the Best trade opportunities are released.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan - </p><p class=\"mbr-reviews__p\"><b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">Forex</a>&nbsp; | &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a>&nbsp; | &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b><br></p>"
             },
             {
               "authorName": "GET ACCESS",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\"><b>3. Start Banking Profits\n</b></p><p class=\"mbr-reviews__p\">Alerts you receive will contain :\n</p><p class=\"mbr-reviews__p\"><b>Direction of Trade</b> : Buy/Sell\n</p><p class=\"mbr-reviews__p\"><b>Asset </b>: Name of Pairs/Instrument to Trade\n</p><p class=\"mbr-reviews__p\"><b>Entry</b> : Ideal Entry Price\n</p><p class=\"mbr-reviews__p\"><b>Stops</b> : Stop-Loss\n</p><p class=\"mbr-reviews__p\"><b>Targets</b> : TP1, TP2, TP3&nbsp;</p><p class=\"mbr-reviews__p\">Real-Time : Released Time &amp; Date</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan -  <b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">Forex</a> &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a> &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b></p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>3. Start Banking Profits\n</b></p><p class=\"mbr-reviews__p\">Alerts you receive will contain :\n</p><p class=\"mbr-reviews__p\"><b>Direction of Trade</b> : Buy/Sell\n</p><p class=\"mbr-reviews__p\"><b>Asset </b>: Name of Pairs/Instrument to Trade\n</p><p class=\"mbr-reviews__p\"><b>Entry</b> : Ideal Entry Price\n</p><p class=\"mbr-reviews__p\"><b>Stops</b> : Stop-Loss\n</p><p class=\"mbr-reviews__p\"><b>Targets</b> : TP1, TP2, TP3&nbsp;</p><p class=\"mbr-reviews__p\">Real-Time : Released Time &amp; Date</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan - </p><p class=\"mbr-reviews__p\"> <b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">Forex</a>&nbsp; | &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a>&nbsp; | &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b></p>"
             },
             {
               "authorName": "John Smith",
@@ -448,7 +448,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -944,7 +944,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1183,7 +1183,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1386,7 +1386,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1540,7 +1540,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1835,7 +1835,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2266,7 +2266,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2420,7 +2420,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2654,7 +2654,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2698,7 +2698,7 @@
             "showButtons": true,
             "paddingTop": "0",
             "paddingBottom": 3,
-            "columns": 4,
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2789,9 +2789,12 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "images/unlimited-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/trade-plus-500-logo-2171398610-seeklogo.com-3-300x129.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2809,9 +2812,12 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "images/blocks.png",
+              "src": "@PROJECT_PATH@/assets/images/activtrades-en-2018-08-staticlogo-300x100-blue-300x100.jpeg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -3080,10 +3086,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/trade-plus-500-logo-2171398610-seeklogo.com-3-300x129.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -3100,6 +3109,69 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-36"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/activtrades-en-2018-08-staticlogo-300x100-blue-300x100.jpeg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Activtrades",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-38"
         },
         {
           "_inherit": "msg-box1",
@@ -3221,7 +3293,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Partners</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"plans.html\">Trading Plans</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"recenttrades.html\">Recent Trades</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"brokers.html\">Partners</a></li>",
           "logo": {
             "image": {
               "active": true,
