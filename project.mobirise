@@ -12,7 +12,7 @@
         "#3c3c3c"
       ]
     },
-    "currentPage": "faqs.html",
+    "currentPage": "index.html",
     "uniqCompNum": 116,
     "versionPublish": "4.11.4"
   },
@@ -311,17 +311,17 @@
             {
               "authorName": "JOIN NOW",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\"><b>1.<a href=\"plans.html\" class=\"text-success\"> Sign up</a>\n</b></p><p class=\"mbr-reviews__p\">Choose your Trading Plan. Our alerts will be sent instantly upon release and received Real-Time anywhere in the globe via # Slack &amp; SMS.\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\"><b>Complete Purchase\n</b></p><p class=\"mbr-reviews__p\">Simply use our secure payment options to complete your purchase. We're transparent, we're using the industry-leading payment processors Stripe to process all transactions</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan - <b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">&nbsp;Forex</a> </b>&nbsp;<b> <a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a></b>&nbsp; <b><a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b></p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>1.<a href=\"plans.html\" class=\"text-success\"> Sign up</a>\n</b></p><p class=\"mbr-reviews__p\">Choose your Trading Plan. Our alerts will be sent instantly upon release and received Real-Time anywhere in the globe via # Slack &amp; SMS.\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\"><b>Complete Purchase\n</b></p><p class=\"mbr-reviews__p\">Simply use our secure payment options to complete your purchase. We're transparent, we're using the industry-leading payment processors Stripe to process all transactions</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">&nbsp;Forex</a>&nbsp;&nbsp;| &nbsp;</b><b><a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a>&nbsp;</b>&nbsp;<b>|&nbsp;</b>&nbsp;<b><a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b></p>"
             },
             {
               "authorName": "MAKE PAYMENT",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\"><b>2. Access Granted\n</b></p><p class=\"mbr-reviews__p\">Once your payment has been received, you will receive our welcome email with an invitation to the exclusive Premium &amp; Ultimate-Snip Plans # Slack channel. Alerts are also sent by SMS. We evaluate the markets so that only the Best trade opportunities are released.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan -  <b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">Forex</a> &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a> &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b></p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>2. Access Granted\n</b></p><p class=\"mbr-reviews__p\">Once your payment has been received, you will receive our welcome email with an invitation to the exclusive Premium &amp; Ultimate-Snip Plans # Slack channel. Alerts are also sent by SMS. We evaluate the markets so that only the Best trade opportunities are released.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan - </p><p class=\"mbr-reviews__p\"><b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">Forex</a>&nbsp; | &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a>&nbsp; | &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b><br></p>"
             },
             {
               "authorName": "GET ACCESS",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\"><b>3. Start Banking Profits\n</b></p><p class=\"mbr-reviews__p\">Alerts you receive will contain :\n</p><p class=\"mbr-reviews__p\"><b>Direction of Trade</b> : Buy/Sell\n</p><p class=\"mbr-reviews__p\"><b>Asset </b>: Name of Pairs/Instrument to Trade\n</p><p class=\"mbr-reviews__p\"><b>Entry</b> : Ideal Entry Price\n</p><p class=\"mbr-reviews__p\"><b>Stops</b> : Stop-Loss\n</p><p class=\"mbr-reviews__p\"><b>Targets</b> : TP1, TP2, TP3&nbsp;</p><p class=\"mbr-reviews__p\">Real-Time : Released Time &amp; Date</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan -  <b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">Forex</a> &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a> &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b></p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>3. Start Banking Profits\n</b></p><p class=\"mbr-reviews__p\">Alerts you receive will contain :\n</p><p class=\"mbr-reviews__p\"><b>Direction of Trade</b> : Buy/Sell\n</p><p class=\"mbr-reviews__p\"><b>Asset </b>: Name of Pairs/Instrument to Trade\n</p><p class=\"mbr-reviews__p\"><b>Entry</b> : Ideal Entry Price\n</p><p class=\"mbr-reviews__p\"><b>Stops</b> : Stop-Loss\n</p><p class=\"mbr-reviews__p\"><b>Targets</b> : TP1, TP2, TP3&nbsp;</p><p class=\"mbr-reviews__p\">Real-Time : Released Time &amp; Date</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Choose Plan - </p><p class=\"mbr-reviews__p\"> <b><a href=\"plans.html#pricing-table1-k\" class=\"text-info\">Forex</a>&nbsp; | &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-success\">Gold/Oil/Btc</a>&nbsp; | &nbsp;<a href=\"plans.html#pricing-table1-k\" class=\"text-warning\">Premium</a></b></p>"
             }
           ],
           "_styles": {
@@ -329,47 +329,6 @@
               "color": "#3c3c3c"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "WHAT TO EXPECT AS A SUBSCRIBER",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-37"
         },
         {
           "_inherit": "msg-box1",
