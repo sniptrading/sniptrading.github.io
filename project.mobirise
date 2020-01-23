@@ -521,7 +521,12 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-x"
+          "_anchor": "header3-x",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_inherit": "slider",
@@ -634,7 +639,7 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "\"All Targets achieve TP2!",
+                "title": "\"All Targets achieved TP2!",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1012,7 +1017,12 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-m"
+          "_anchor": "header3-m",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
